@@ -10,7 +10,7 @@
 >
 > 🌐 **Open in Browser** → [*HTML live demo*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/)
 >
-> 📥 **Download Excel** → [*download link*](https://alexhasgreatestuff.gumroad.com/l/ytjhap)
+> 📥 **Download Excel** → [*download link*](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
 >
 > Available in both **browser-based HTML** and **Excel workbook** formats.
 
