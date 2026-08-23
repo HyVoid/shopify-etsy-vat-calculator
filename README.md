@@ -6,7 +6,9 @@
 
 **Calculate, validate, and prepare monthly multi-country VAT filings from Shopify and Etsy data in minutes — using a free browser version or a reusable Excel workbook, with no installation and no subscription required.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML live demo*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/)
 >
