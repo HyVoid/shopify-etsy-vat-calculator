@@ -8,7 +8,7 @@
 
 **No signup. No installation. Free in your browser.**
 
-Test your transaction data in the free browser version. For recurring monthly accounting, upgrade to the downloadable Excel format (backed by a 7-day money-back guarantee).
+Test your transaction data in the free browser version. For recurring monthly accounting, upgrade to the downloadable Excel format (backed by a 30-day, no-questions-asked money-back guarantee).
 >
 > 🌐 **Run Instant Tax Reconciliation** → [*Try the Free Browser-Based VAT Calculator App*](https://hyvoid.github.io/shopify-etsy-vat-calculator/)
 >
