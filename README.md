@@ -10,7 +10,7 @@
 
 Test your transaction data in the free browser version. For recurring monthly accounting, upgrade to the downloadable Excel format (backed by a 7-day money-back guarantee).
 >
-> 🌐 **Run Instant Tax Reconciliation** → [*Try the Free Browser-Based VAT Calculator App*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/)
+> 🌐 **Run Instant Tax Reconciliation** → [*Try the Free Browser-Based VAT Calculator App*](https://hyvoid.github.io/shopify-etsy-vat-calculator/)
 >
 > 📥 **Automate Monthly Filings** → [*Download the Reusable Excel VAT Accounting Template*](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
 >
