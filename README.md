@@ -1,140 +1,144 @@
-# Calculate Monthly VAT Across Shopify + Etsy with a Reusable Compliance Workbook
+# Shopify & Etsy VAT Calculator: Multi-Country Tax Compliance Template & Workbook
 
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform: Browser + Excel](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
 ![Tool Type: VAT Compliance & Decision Support](https://img.shields.io/badge/Tool-VAT%20Decision%20Support-orange.svg)
 
-**Calculate, validate, and prepare monthly multi-country VAT filings from Shopify and Etsy data in minutes — using a free browser version or a reusable Excel workbook, with no installation and no subscription required.**
+**Automate your cross-border ecommerce tax compliance with this free Shopify and Etsy VAT calculator. This reusable Excel template and browser-based accounting tool instantly reconciles monthly multi-country VAT filings, OSS declarations, and sales tax liabilities—eliminating manual spreadsheet errors without requiring a software subscription.**
 
 **No signup. No installation. Free in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
+Test your transaction data in the free browser version. For recurring monthly accounting, upgrade to the downloadable Excel format (backed by a 7-day money-back guarantee).
 >
-> 🌐 **Open in Browser** → [*HTML live demo*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/)
+> 🌐 **Run Instant Tax Reconciliation** → [*Try the Free Browser-Based VAT Calculator App*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/)
 >
-> 📥 **Download Excel** → [*download link*](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
+> 📥 **Automate Monthly Filings** → [*Download the Reusable Excel VAT Accounting Template*](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
 >
-> Available in both **browser-based HTML** and **Excel workbook** formats.
+> Available in both **browser-based HTML software** and **macro-free Excel workbook** formats.
 
 ---
 
-## What It Helps You Track
+## Ecommerce VAT Pain Points & Automated Solutions (What It Helps You Track)
 
-* Monthly VAT payable by country across Shopify and Etsy in a single reporting view.
-* Gross sales, net sales, output VAT, refund VAT, and final tax liabilities simultaneously.
-* Transactions containing missing country mappings, incorrect tax assumptions, or reporting inconsistencies.
-* Platform-collected tax amounts versus internally calculated VAT obligations.
-* Refund-driven VAT recoveries that would otherwise be omitted from filings.
-* Filing readiness status before submitting VAT returns or OSS declarations.
+Instead of listing basic metrics, here is how this tax reconciliation template maps your ecommerce accounting pain points to actionable filing solutions:
+
+* **Pain Point:** Fragmented multi-channel CSV exports.
+  * **Solution:** Consolidates monthly VAT payable by country across Shopify and Etsy into a *single reporting ledger*.
+* **Pain Point:** Opaque net revenue figures.
+  * **Solution:** Calculates gross sales, net sales, output VAT, refund VAT, and final tax liabilities simultaneously for audit-ready reporting.
+* **Pain Point:** Silent errors in tax jurisdiction assignments.
+  * **Solution:** Flags transactions containing missing country mappings, incorrect tax assumptions, or reporting inconsistencies before filing.
+* **Pain Point:** Overpaying cross-border taxes due to marketplace calculation logic.
+  * **Solution:** Audits platform-collected tax amounts versus your internally calculated VAT obligations.
+* **Pain Point:** Leaving money on the table during customer returns.
+  * **Solution:** Automates refund-driven VAT recoveries that would otherwise be omitted from your OSS returns.
+* **Pain Point:** Last-minute filing anxiety.
+  * **Solution:** Provides a definitive filing readiness status before you submit VAT returns or OSS declarations to tax authorities.
 
 ---
 
-# Why I Built This
+# Why I Built This Tax Reconciliation Tool
 
-Most small and mid-sized cross-border ecommerce businesses do not struggle because VAT rules are impossible to understand.
+Most small and mid-sized cross-border ecommerce businesses do not struggle because IOSS or EU VAT rules are impossible to understand. 
 
-They struggle because VAT calculations become fragmented across platforms, exports, accountants, marketplaces, and countries.
+They struggle because VAT calculations become fragmented across store platforms, raw CSV exports, external accountants, marketplaces, and local tax jurisdictions.
 
-A typical monthly workflow often looks like this:
+A typical manual accounting workflow often looks like this:
+1. Export Shopify financial reports.
+2. Export Etsy transaction statements.
+3. Paste raw data into separate, easily broken spreadsheets.
+4. Calculate jurisdiction-specific VAT manually.
+5. Compare marketplace tax collection values against accounting assumptions.
+6. Discover tax discrepancies during late-night filing preparation.
 
-* Export Shopify orders.
-* Export Etsy transactions.
-* Copy data into separate spreadsheets.
-* Calculate VAT manually.
-* Compare platform tax values against accounting assumptions.
-* Discover exceptions during filing preparation.
-
-The actual analytical failure is not "incorrect tax formulas."
-
-The failure is **making tax decisions without a unified transaction-level model of tax liability**.
+The actual analytical failure is not "incorrect Excel tax formulas." The failure is **making tax decisions without a unified, transaction-level model of your sales tax liability**.
 
 For example:
 
-| Scenario              | Traditional Workflow |
-| --------------------- | -------------------- |
-| Germany sales         | €42,800              |
-| Assumed VAT           | 19%                  |
-| Shopify collected tax | €6,750               |
-| Actual calculated VAT | €6,832               |
-| Difference            | €82                  |
+| Tax Assessment Scenario | Traditional Manual Accounting |
+| ----------------------- | ----------------------------- |
+| Germany (DE) Gross Sales| €42,800                       |
+| Assumed Local VAT Rate  | 19%                           |
+| Shopify Collected Tax   | €6,750                        |
+| Actual Calculated VAT   | €6,832                        |
+| **Reconciliation Variance**| **€82**                    |
 
-An €82 discrepancy may appear immaterial.
+An €82 discrepancy may appear immaterial. However, when multiplied across four EU countries, two marketplace platforms, hundreds of refunds, and quarterly OSS filing periods, the issue becomes a systemic reconciliation problem rather than a simple calculation error.
 
-However, when repeated across four countries, two platforms, refunds, and multiple filing periods, the issue becomes a reconciliation problem rather than a calculation problem.
+This workbook productizes a repeatable ecommerce analytical framework:
 
-This workbook productizes a repeatable analytical framework:
+> **Import raw exports once → normalize data automatically once → validate anomalies once → generate precise tax filing outputs repeatedly.**
 
-> **Import once → normalize once → validate once → generate filing outputs repeatedly.**
-
-Instead of building another custom spreadsheet every month, the same reasoning framework becomes reusable.
-
-The objective is not automation for its own sake.
-
-The objective is knowing:
-
-> **"Can this month's VAT filing be submitted with confidence?"**
+The objective is not automation for its own sake. The objective is knowing:
+> **"Can this month's multi-country VAT return be submitted to the tax authority with 100% confidence?"**
 
 ---
 
-## Common VAT Compliance Problems This Solves
+## VAT Compliance Comparison: Traditional vs. Automated Workflows
 
-| Problem                                  | Without This Tool                      | With This Tool                              |
+| Common Tax Compliance Problem            | Traditional Manual Accounting Workflow | Automated VAT Workbook Solution             |
 | ---------------------------------------- | -------------------------------------- | ------------------------------------------- |
-| Multi-platform transaction fragmentation | Shopify and Etsy reconciled separately | Unified transaction ledger                  |
-| Missing country tax mappings             | Filing errors discovered late          | Missing jurisdictions automatically flagged |
-| Platform tax discrepancies               | Manual reconciliation required         | Automated variance detection                |
-| Refund VAT treatment                     | Refund tax recovery often omitted      | Refund VAT automatically calculated         |
-| Monthly filing preparation               | Rebuilt manually every reporting cycle | Filing output generated automatically       |
-| Compliance validation                    | Dependent on manual review             | Systematic exception control                |
+| **Multi-platform sales fragmentation**   | Consolidate Shopify and Etsy data manually via VLOOKUPs | Ingest data into a pre-built unified transaction ledger |
+| **Missing cross-border tax mappings**    | Discover reporting errors late during the tax filing gateway upload | Flag missing jurisdictions automatically in the validation dashboard |
+| **Marketplace vs. Actual tax variances** | Perform line-by-line manual reconciliation of platform logic | Trigger automated variance detection for discrepancies > €1.00 |
+| **Refund VAT offset treatment**          | Omit refund tax recovery, leading to overpayment | Calculate refund VAT offsets automatically for accurate deductions |
+| **Monthly filing preparation**           | Rebuild the tax tracking spreadsheet every reporting cycle | Generate structured filing output automatically via dynamic arrays |
+| **Compliance readiness validation**      | Depend entirely on manual review by an external bookkeeper | Rely on systematic exception control before final tax submission |
 
 ---
 
-## Who This Is For
+## Real-World VAT Compliance Scenarios for Cross-Border Teams
 
-This tool is designed for:
+This template captures high-intent workflow needs across various operational scenarios:
 
-* Shopify merchants selling internationally.
-* Etsy sellers with VAT reporting obligations.
-* Ecommerce finance managers.
-* Fractional CFOs and bookkeepers.
-* VAT consultants managing multiple clients.
-* Cross-border apparel and consumer product brands.
+* **Quarterly OSS / IOSS Declarations:** Aggregating B2C cross-border sales across the EU to ensure accurate reporting to the tax portal.
+* **Multi-Channel Marketplace Reconciliation:** Bridging the gap between Etsy's marketplace facilitator tax logic and Shopify's independent merchant tax collection.
+* **Audit Preparation & Ledger Backup:** Maintaining a transaction-level backup of all tax calculations to defend against jurisdiction tax audits.
+* **Profitability & Net Margin Analysis:** Stripping out the VAT component from gross marketplace payouts to understand true net product revenue.
+
+---
+
+## Who This Is For (Target Roles & Use Cases)
+
+This tool is explicitly designed to bind specific roles to their operational bottlenecks:
+
+* **Shopify International Merchants** needing an *automated EU VAT calculation template* to replace error-prone manual spreadsheets.
+* **Etsy Sellers** looking for a *monthly tax compliance tracking software* that handles refund offsets automatically.
+* **Ecommerce Finance Managers** seeking a *multi-channel tax reconciliation spreadsheet* to unify distinct data streams.
+* **Fractional CFOs and Bookkeepers** managing multiple client portfolios with a standardized *cross-border accounting dashboard*.
+* **VAT Consultants** requiring a robust *tax diagnostic and validation workbook* for client onboarding.
 
 This tool is **not** designed for:
+* ERP replacement projects (e.g., NetSuite or SAP).
+* Enterprise global tax engines (e.g., Avalara or Vertex).
+* Automated tax filing API gateways.
+* Real-time checkout transactional tax calculation plugins.
 
-* ERP replacement projects.
-* Enterprise tax engines.
-* Automated tax filing gateways.
-* Real-time transactional tax calculation APIs.
-
-No spreadsheet expertise is required.
-
-Open the browser version or paste exports into Excel and begin monthly VAT reconciliation immediately.
+No advanced spreadsheet expertise is required. 
 
 ---
 
-## About
+## Quick Start Workflow: Reconcile Your First VAT Return
 
-I build lightweight operational trackers and decision-support tools for situations where there are simply too many moving parts to keep reliably in your head.
+Follow this streamlined operational protocol to audit your tax liabilities today:
 
-The question I try to answer is always:
-
-> **"What information needs to exist in one place so that the next decision can be made confidently?"**
-
-This VAT compliance workbook is one example of that approach: turning a recurring analytical process into a reusable decision framework rather than another disposable spreadsheet.
+1. **Export Platform Data:** Download your standard transaction CSV reports from your Shopify and Etsy merchant dashboards for the target reporting month.
+2. **Run the Diagnostic:** Paste your raw data into the [*Free Browser-Based VAT Calculator*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/) to execute an instant tax health check.
+3. **Resolve Exceptions:** Use the Validation Center to identify unmapped country codes, variance alerts, and unrecovered refund taxes.
+4. **Automate Future Filings:** Once your data is clean, generate your final VAT filing report. For ongoing monthly operations, **[Download the Reusable Excel VAT Workbook](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)** to lock in your custom jurisdiction mappings, eliminate repetitive setup, and standardize your cross-border compliance permanently.
 
 ---
 
 ## Technical Details
 
 <details>
-<summary>For technical reviewers, Excel practitioners, and collaborators</summary>
+<summary>For technical reviewers, Excel accounting practitioners, and financial analysts</summary>
 
 ---
 
 ### Workbook Architecture
 
-The workbook follows a four-layer analytical architecture:
+The workbook follows a four-layer analytical architecture designed for financial data integrity:
 
 ```text
 DATA INPUT
@@ -145,188 +149,119 @@ VAT CALCULATION ENGINE
     ↓
 VALIDATION CENTER
     ↓
-MONTHLY VAT REPORT
+MONTHLY VAT REPORT (AUDIT-READY)
+
 ```
 
-| Sheet                  | Layer        | Purpose                        |
-| ---------------------- | ------------ | ------------------------------ |
-| Control Panel          | Presentation | Parameters and KPI monitoring  |
-| Shopify Import         | Data         | Shopify raw CSV ingestion      |
-| Etsy Import            | Data         | Etsy raw CSV ingestion         |
-| Normalization Engine   | Engine       | Unified transaction ledger     |
-| VAT Calculation Engine | Calculation  | Tax computation and allocation |
-| Validation Center      | Validation   | Exception detection            |
-| Monthly VAT Report     | Output       | Filing-ready reporting         |
+| Sheet Name | Architecture Layer | Core Accounting Purpose |
+| --- | --- | --- |
+| Control Panel | Presentation | Parameters and KPI monitoring |
+| Shopify Import | Data Ingestion | Shopify raw CSV ingestion |
+| Etsy Import | Data Ingestion | Etsy raw CSV ingestion |
+| Normalization Engine | Data Engineering | Unified transaction ledger |
+| VAT Calculation Engine | Calculation | Tax computation and allocation |
+| Validation Center | Quality Assurance | Exception detection |
+| Monthly VAT Report | Output | Filing-ready reporting |
 
-Validation always occurs before reporting outputs become operationally trustworthy.
+**Rule of thumb:** Validation always occurs before reporting outputs become operationally trustworthy.
 
 ---
 
 ### Three Traps That Catch Even Experienced Ecommerce Finance Teams
 
-#### Trap 1 — Assuming Platform Tax Equals Tax Liability
+#### Trap 1 — Assuming Platform Tax Equals Actual Tax Liability
 
-1. A filing decision was made.
-2. The decision relied on marketplace tax amounts.
-3. Platform tax logic differed from filing jurisdiction rules.
-4. The filing amount became inaccurate.
+1. A tax filing decision was made.
+2. The decision relied purely on marketplace tax collection amounts.
+3. Platform tax logic differed from local filing jurisdiction rules.
+4. The final filed amount became inaccurate.
 
-| Metric         | Platform | Actual  |
-| -------------- | -------- | ------- |
-| Gross Sales    | €50,000  | €50,000 |
-| Platform Tax   | €7,600   | —       |
-| Calculated VAT | —        | €8,042  |
+| Metric | Marketplace Platform | Actual Liability |
+| --- | --- | --- |
+| Gross Sales | €50,000 | €50,000 |
+| Platform Tax | €7,600 | — |
+| Calculated VAT | — | €8,042 |
 
 **Incorrect conclusion:**
 
 ```text
 VAT payable = Platform tax collected
+
 ```
 
 **Correct approach:**
 
 ```text
-VAT payable
-= Gross Sales
-- Net Sales
-- Refund VAT adjustments
-```
+VAT payable = Gross Sales - Net Sales - Refund VAT adjustments
 
-<details>
-<summary>Formula logic</summary>
+```
 
 ```excel
 Net Sales = Gross/(1+VAT Rate)
-
 Output VAT = Gross-Net Sales
-
 Net VAT Payable = Output VAT-Refund VAT
-```
 
-</details>
+```
 
 ---
 
 #### Trap 2 — Ignoring Refund Tax Recovery
 
-1. Refunds occurred.
-2. VAT recovery was omitted.
-3. Tax liability remained overstated.
+1. Customer refunds occurred.
+2. VAT recovery calculations were omitted.
+3. Overall tax liability remained overstated, leaking net margin.
 
-| Item       | Without Recovery | With Recovery |
-| ---------- | ---------------- | ------------- |
-| Sales VAT  | €12,300          | €12,300       |
-| Refund VAT | €0               | €1,120        |
-| Final VAT  | €12,300          | €11,180       |
+| Ledger Item | Without Tax Recovery | With Tax Recovery |
+| --- | --- | --- |
+| Sales VAT | €12,300 | €12,300 |
+| Refund VAT | €0 | €1,120 |
+| Final VAT | €12,300 | €11,180 |
 
-The analytical mistake is treating refunds as revenue adjustments instead of tax adjustments.
-
-<details>
-<summary>Formula logic</summary>
+The critical analytical mistake is treating refunds as gross revenue adjustments instead of specific tax liability adjustments.
 
 ```excel
-Refund VAT
-=
-Refund Amount
-× VAT Rate
-÷ (1+VAT Rate)
-```
+Refund VAT = Refund Amount × VAT Rate ÷ (1+VAT Rate)
 
-</details>
+```
 
 ---
 
-#### Trap 3 — Assuming Country Codes Are Always Correct
+#### Trap 3 — Assuming Customer Country Codes Are Always Accurate
 
-1. Filing calculations were performed.
-2. Country assignments contained errors.
-3. VAT jurisdiction allocation became incorrect.
+1. Filing calculations were executed.
+2. Default country assignments contained blank or erroneous data.
+3. VAT jurisdiction allocation became fundamentally flawed.
 
-Example:
+Example of silent failure:
 
-| Transaction | Country |
-| ----------- | ------- |
-| TX-10025    | DE      |
-| TX-10026    | BLANK   |
-| TX-10027    | XX      |
+| Transaction ID | Billing Country |
+| --- | --- |
+| TX-10025 | DE |
+| TX-10026 | BLANK |
+| TX-10027 | XX |
 
-Without validation, these transactions silently enter filings.
+Without programmatic validation, these unmapped transactions silently enter your final tax filings.
 
-Corrected approach:
+**Corrected validation approach:**
 
 ```text
-Country missing
-OR
-VAT rate unmapped
-OR
-Tax variance > threshold
-=
-Exception generated
-```
+IF Country is missing
+OR VAT rate is unmapped
+OR Tax variance > threshold
+THEN Generate Exception Flag
 
-<details>
-<summary>Formula logic</summary>
+```
 
 ```excel
 err_country = country=""
 err_unmapped = vat_rate=0
 err_tax = ABS(platform-calculated)>1
-```
 
-</details>
+```
 
 ---
 
-### Example Scenario
-
-An Irish apparel business sells through Shopify and Etsy during June.
-
-| Country | Gross Sales | VAT Rate |
-| ------- | ----------- | -------- |
-| Ireland | €38,500     | 23%      |
-| Germany | €21,000     | 19%      |
-| France  | €16,400     | 20%      |
-
-Refunds:
-
-| Country | Refund |
-| ------- | ------ |
-| Germany | €2,380 |
-| France  | €1,200 |
-
-Intermediate calculations:
-
-| Country | Output VAT | Refund VAT | Final VAT |
-| ------- | ---------- | ---------- | --------- |
-| Ireland | €7,199     | €0         | €7,199    |
-| Germany | €3,353     | €380       | €2,973    |
-| France  | €2,733     | €200       | €2,533    |
-
-Analytical interpretation:
-
-* Germany refund recovery reduces liability by 11%.
-* France refund recovery reduces liability by 7%.
-* Ireland contains no adjustment exposure.
-
-Recommendation:
-
-```text
-Proceed with Irish filing.
-Validate German refunds.
-Confirm French refund classification.
-Submit consolidated monthly filing.
-```
-
-Operational implication:
-
-The workbook transforms VAT preparation from a manual reconciliation exercise into an exception-management exercise.
-
----
-
-### Formula Reference
-
-<details>
-<summary>Normalization Engine</summary>
+### Formula Reference & Dependencies
 
 ```excel
 FILTER()
@@ -335,37 +270,19 @@ CHOOSECOLS()
 MAP()
 LET()
 HSTACK()
+
 ```
 
-Purpose:
-
-* Remove empty rows
-* Normalize platforms
-* Standardize country codes
-* Build transaction ledger
-
-</details>
-
-<details>
-<summary>VAT Calculation Engine</summary>
+*Purpose:* Remove empty rows, normalize platform schema, standardize country codes, build transaction ledger.
 
 ```excel
 XLOOKUP()
 SUMIFS()
 MAP()
+
 ```
 
-Purpose:
-
-* VAT lookup
-* Tax allocation
-* Refund recovery
-* Net payable calculation
-
-</details>
-
-<details>
-<summary>Validation Engine</summary>
+*Purpose:* Dynamic VAT lookup, jurisdiction tax allocation, refund recovery extraction, net payable calculation.
 
 ```excel
 FILTER()
@@ -373,42 +290,48 @@ TEXTJOIN()
 ABS()
 IF()
 LET()
+
 ```
 
-Purpose:
-
-* Exception detection
-* Diagnostic generation
-* Filing control
+*Purpose:* Exception detection, diagnostic payload generation, tax filing control gateway.
 
 </details>
 
 ---
 
-### Validation Rules
+## The Business Logic & Methodology
 
-| Field           | Rule               | Error Behavior |
-| --------------- | ------------------ | -------------- |
-| Country Code    | Cannot be blank    | Exception      |
-| VAT Rate        | Must exist         | Exception      |
-| Gross Sales     | Cannot be negative | Exception      |
-| Platform Tax    | Variance ≤ 1.00    | Exception      |
-| Refund Amount   | Must be numeric    | Zero applied   |
-| Transaction ID  | Cannot be blank    | Excluded       |
-| Reporting Month | Must exist         | Report blocked |
+This tool is not just a calculation spreadsheet; it is an operational methodology designed to protect your net margin and ensure audit-readiness. It resolves the core business problem of **multi-channel financial fragmentation** by applying enterprise-grade reconciliation principles to SMB cross-border ecommerce.
 
-</details>
+Here is the methodology powering the system:
+
+### 1. Data Normalization (Single Source of Truth)
+*   **The Business Problem:** Shopify and Etsy export transaction data in entirely different reporting schemas. Comparing them manually leads to version control chaos and broken VLOOKUPs.
+*   **The Methodology:** The tool acts as a lightweight ETL (Extract, Transform, Load) pipeline. It automatically ingests disparate raw CSV exports and normalizes them into a standardized, unified transaction ledger—creating a single source of truth for your compliance data.
+
+### 2. Zero-Trust Tax Recalculation
+*   **The Business Problem:** Relying blindly on marketplace "Tax Collected" figures often leads to jurisdiction misreporting, as platform algorithms may not align with your specific nexus obligations or product tax classes.
+*   **The Methodology:** The engine utilizes a "Zero-Trust" calculation model. It recalculates your true tax liability *bottom-up* based on Gross Sales and your configured jurisdiction rates, then audits this baseline against the platform's collected tax to expose hidden calculation variances.
+
+### 3. Management by Exception
+*   **The Business Problem:** Manually reviewing thousands of micro-transactions every month to prepare an OSS declaration is an unsustainable drain on financial resources.
+*   **The Methodology:** The architecture shifts your accounting workflow to "Exception-Based Management." Instead of auditing every row, the Validation Center isolates only the anomalies—such as missing country codes, blank tax rates, or collection variances exceeding €1.00—allowing you to focus purely on high-leverage problem resolution.
+
+### 4. Net Margin Recovery via Refund Offsets
+*   **The Business Problem:** Many cross-border merchants treat customer returns purely as revenue deductions, failing to systematically reclaim the associated output VAT, thereby leaking net profit to tax authorities.
+*   **The Methodology:** The calculation engine programmatically isolates refund transactions and maps them back to their origin jurisdictions. It automatically applies tax credit offsets against your gross payable VAT, ensuring you never absorb the tax cost on refunded sales.
 
 ---
 
-## Other Tools in This Series
 
-* **Inventory Planning & Replenishment Console** — reorder optimization and stock risk management.
-* **Marketing Attribution Audit System** — channel attribution validation and spend efficiency analysis.
-* **Project Cost Allocation Workbench** — labor allocation and project profitability tracking.
-* **Multi-Entity Logistics Control Tower** — cross-border shipment and customs monitoring.
+## Other Operational Tools in This Series
 
-More tools available through the GitHub profile and distribution store.
+* **Inventory Planning & Replenishment Console** — reorder optimization and stock risk management template.
+* **Marketing Attribution Audit System** — channel attribution validation and ROAS efficiency analysis.
+* **Project Cost Allocation Workbench** — labor allocation and project profitability tracking spreadsheet.
+* **Multi-Entity Logistics Control Tower** — cross-border shipment and customs monitoring dashboard.
+
+Explore more decision-support frameworks and templates through the GitHub profile and Gumroad distribution store.
 
 ---
 
