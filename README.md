@@ -331,7 +331,7 @@ Here is the methodology powering the system:
 * **Project Cost Allocation Workbench** — labor allocation and project profitability tracking spreadsheet.
 * **Multi-Entity Logistics Control Tower** — cross-border shipment and customs monitoring dashboard.
 
-Explore more decision-support frameworks and templates through the GitHub profile and Gumroad distribution store.
+Explore more decision-support frameworks and templates through the GitHub profile and our [Website](https://www.theseusworkshop.com/).
 
 ---
 
