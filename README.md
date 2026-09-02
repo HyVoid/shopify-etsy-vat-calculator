@@ -12,7 +12,7 @@ Test your transaction data in the free browser version. For recurring monthly ac
 >
 > 🌐 **Run Instant Tax Reconciliation** → [*Try the Free Browser-Based VAT Calculator App*](https://hyvoid.github.io/shopify-etsy-vat-calculator/)
 >
-> 📥 **Automate Monthly Filings** → [*Download the Reusable Excel VAT Accounting Template*](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
+> 📥 **Automate Monthly Filings** → [*Download the Reusable Excel VAT Accounting Template*](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
 >
 > Available in both **browser-based HTML software** and **macro-free Excel workbook** formats.
 
@@ -125,7 +125,7 @@ Follow this streamlined operational protocol to audit your tax liabilities today
 1. **Export Platform Data:** Download your standard transaction CSV reports from your Shopify and Etsy merchant dashboards for the target reporting month.
 2. **Run the Diagnostic:** Paste your raw data into the [*Free Browser-Based VAT Calculator*](https://hyvoid.github.io/Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-Excel-/) to execute an instant tax health check.
 3. **Resolve Exceptions:** Use the Validation Center to identify unmapped country codes, variance alerts, and unrecovered refund taxes.
-4. **Automate Future Filings:** Once your data is clean, generate your final VAT filing report. For ongoing monthly operations, **[Download the Reusable Excel VAT Workbook](https://alexhasgreatestuff.gumroad.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)** to lock in your custom jurisdiction mappings, eliminate repetitive setup, and standardize your cross-border compliance permanently.
+4. **Automate Future Filings:** Once your data is clean, generate your final VAT filing report. For ongoing monthly operations, **[Download the Reusable Excel VAT Workbook](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)** to lock in your custom jurisdiction mappings, eliminate repetitive setup, and standardize your cross-border compliance permanently.
 
 ---
 
