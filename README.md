@@ -2,6 +2,8 @@
 
 # Shopify & Etsy VAT Calculator: Multi-Country Tax Compliance Template & Workbook
 
+
+
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform: Browser + Excel](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
 ![Tool Type: VAT Compliance & Decision Support](https://img.shields.io/badge/Tool-VAT%20Decision%20Support-orange.svg)
