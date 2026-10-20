@@ -305,25 +305,25 @@ LET()
 
 ## The Business Logic & Methodology
 
-This tool is not just a calculation spreadsheet; it is an operational methodology designed to protect your net margin and ensure audit-readiness. It resolves the core business problem of **multi-channel financial fragmentation** by applying enterprise-grade reconciliation principles to SMB cross-border ecommerce.
+Cross-border ecommerce VAT compliance is not just a tax calculation problem. It is a transaction reconciliation and reporting control problem. When sales data from Shopify and Etsy is processed separately, differences in tax collection, refund treatment, country allocation, and reporting periods can create inaccurate VAT returns or unnecessary manual review.
 
-Here is the methodology powering the system:
+This toolkit applies a repeatable **monthly VAT reconciliation methodology** to turn raw marketplace exports into a structured, country-level view of sales, tax liabilities, refund adjustments, and unresolved exceptions.
 
-### 1. Data Normalization (Single Source of Truth)
-*   **The Business Problem:** Shopify and Etsy export transaction data in entirely different reporting schemas. Comparing them manually leads to version control chaos and broken VLOOKUPs.
-*   **The Methodology:** The tool acts as a lightweight ETL (Extract, Transform, Load) pipeline. It automatically ingests disparate raw CSV exports and normalizes them into a standardized, unified transaction ledger—creating a single source of truth for your compliance data.
+The methodology connects four business processes:
 
-### 2. Zero-Trust Tax Recalculation
-*   **The Business Problem:** Relying blindly on marketplace "Tax Collected" figures often leads to jurisdiction misreporting, as platform algorithms may not align with your specific nexus obligations or product tax classes.
-*   **The Methodology:** The engine utilizes a "Zero-Trust" calculation model. It recalculates your true tax liability *bottom-up* based on Gross Sales and your configured jurisdiction rates, then audits this baseline against the platform's collected tax to expose hidden calculation variances.
+- **Multi-Platform Data Normalization:** Shopify and Etsy exports use different transaction identifiers and tax-related fields. A unified transaction ledger standardizes the relevant data so that sales from multiple ecommerce channels can be analyzed consistently. This reduces manual spreadsheet preparation and makes cross-platform VAT reporting easier to maintain.
 
-### 3. Management by Exception
-*   **The Business Problem:** Manually reviewing thousands of micro-transactions every month to prepare an OSS declaration is an unsustainable drain on financial resources.
-*   **The Methodology:** The architecture shifts your accounting workflow to "Exception-Based Management." Instead of auditing every row, the Validation Center isolates only the anomalies—such as missing country codes, blank tax rates, or collection variances exceeding €1.00—allowing you to focus purely on high-leverage problem resolution.
+- **Country-Based VAT Rate Mapping:** Each transaction is associated with a destination country and its configured VAT rate. This supports country-level VAT calculations and helps identify transactions that cannot be assigned a valid tax rate. It makes jurisdiction-level reporting gaps visible before filing preparation.
 
-### 4. Net Margin Recovery via Refund Offsets
-*   **The Business Problem:** Many cross-border merchants treat customer returns purely as revenue deductions, failing to systematically reclaim the associated output VAT, thereby leaking net profit to tax authorities.
-*   **The Methodology:** The calculation engine programmatically isolates refund transactions and maps them back to their origin jurisdictions. It automatically applies tax credit offsets against your gross payable VAT, ensuring you never absorb the tax cost on refunded sales.
+- **Gross-to-Net Tax Calculation and Refund Adjustment:** Tax-inclusive sales are separated into net sales and output VAT, while eligible refund-related VAT adjustments are calculated independently. This helps finance teams distinguish commercial revenue from tax amounts and understand how refunds affect the calculated VAT balance.
+
+- **Tax Reconciliation and Exception-Based Review:** Platform-reported tax amounts are compared with internally calculated output VAT. Missing country codes, unmapped tax rates, negative sales values, and material tax differences are flagged for investigation. Instead of reviewing every transaction manually, finance teams can prioritize records that require attention.
+
+- **Monthly Country-Level VAT Reporting:** Validated transaction data is aggregated by reporting month and country to produce a structured VAT reporting worksheet. This gives ecommerce operators, bookkeepers, and tax advisers a consistent starting point for reviewing monthly VAT figures and preparing jurisdiction-specific returns.
+
+The commercial objective is to replace repetitive spreadsheet manipulation with a **controlled, repeatable VAT reporting workflow**. The result is better visibility into calculated tax liabilities, clearer reconciliation evidence, and a more disciplined process for identifying issues before filing.
+
+**Important:** This workbook is a calculation and reconciliation aid, not a substitute for jurisdiction-specific tax advice. Actual VAT obligations depend on factors such as seller registration, transaction classification, marketplace deemed-supplier rules, applicable VAT rates, and the treatment of refunds. Calculated amounts and exception results should be reviewed against the relevant filing requirements before submission.
 
 ---
 
