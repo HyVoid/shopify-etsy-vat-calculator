@@ -330,10 +330,9 @@ The commercial objective is to replace repetitive spreadsheet manipulation with 
 
 ## Other Operational Tools in This Series
 
-* **Inventory Planning & Replenishment Console** — reorder optimization and stock risk management template.
-* **Marketing Attribution Audit System** — channel attribution validation and ROAS efficiency analysis.
-* **Project Cost Allocation Workbench** — labor allocation and project profitability tracking spreadsheet.
-* **Multi-Entity Logistics Control Tower** — cross-border shipment and customs monitoring dashboard.
+* **[cars-702-705-flight-duty-time-tracker-excel](https://github.com/HyVoid/cars-702-705-flight-duty-time-tracker-excel)** — Which aviation compliance rule or operating constraint applies? — Interpret aviation compliance requirements into operational flight duty constraints.
+* **[Reckon-IIF-Converter](https://github.com/HyVoid/Reckon-IIF-Converter)** — How do we reduce accounting import and migration risk? — Convert CRM invoice exports into validated import-ready accounting file formats.
+* **[eu-ppwr-compliance-tracker](https://github.com/HyVoid/eu-ppwr-compliance-tracker)** — Can we prove our packaging is actually PPWR-compliant and ready for EU DoC sign-off, or are we just holding incomplete supplier paperwork? — Verify supplier packaging declarations against regulatory thresholds and mass-balance tolerances, separating automated screening from expert evidence review and gating final technical-file sign-off.
 
 Explore more decision-support frameworks and templates through the GitHub profile and our [Website](https://www.theseusworkshop.com/).
 
