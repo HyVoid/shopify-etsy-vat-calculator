@@ -42,7 +42,7 @@ export default function MonthlyVatReport({
 
   // Corporate and Document Metadata (Persistent via LocalStorage)
   const [companyName, setCompanyName] = useState(() => {
-    return localStorage.getItem('vat_doc_company_name') || 'STRATOS SOLUTIONS LTD';
+    return localStorage.getItem('vat_doc_company_name') || 'Theseus Workshop Ltd';
   });
   const [vatRegNo, setVatRegNo] = useState(() => {
     return localStorage.getItem('vat_doc_vat_reg') || 'GB 384 9201 44';
@@ -379,13 +379,13 @@ export default function MonthlyVatReport({
               <div className="w-5 h-5 bg-[#051C2C] rounded flex items-center justify-center">
                 <div className="w-2.5 h-2.5 border-2 border-white rotate-45"></div>
               </div>
-              <span className="text-xs font-bold text-[#051C2C] tracking-widest font-sans">STRATOS COMPLIANCE AUDITING</span>
+              <span className="text-xs font-bold text-[#051C2C] tracking-widest font-sans">THESEUS WORKSHOP AUDIT & COMPLIANCE</span>
             </div>
             <h1 className="text-2xl font-serif font-bold text-[#051C2C] tracking-tight pt-1">
               VAT RECONCILIATION SUPPORTING DOSSIER
             </h1>
             <p className="text-[10px] text-slate-500 font-mono">
-              DOCUMENT IDENTIFIER: <span className="font-bold text-[#051C2C]">STR-VAT-{selectedMonth.replace('-', '')}-SUPPORTING</span>
+              DOCUMENT IDENTIFIER: <span className="font-bold text-[#051C2C]">THESEUS-VAT-{selectedMonth.replace('-', '')}-SUPPORTING</span>
             </p>
           </div>
 
@@ -728,7 +728,7 @@ export default function MonthlyVatReport({
 
           {/* Regulatory Compliance Physical Stamp */}
           <div className="border-2 border-dashed border-[#051C2C]/25 p-4 rounded-lg w-full max-w-xs text-center select-none bg-slate-50/40 shrink-0">
-            <span className="text-[9px] font-bold text-slate-400 uppercase tracking-widest block font-sans">STRATOS TAX PORTAL</span>
+            <span className="text-[9px] font-bold text-slate-400 uppercase tracking-widest block font-sans">THESEUS WORKSHOP TAX PORTAL</span>
             <span className="text-sm font-serif font-bold text-[#051C2C] tracking-tight block my-1">
               VAT COMPLIANCE VERIFIED
             </span>

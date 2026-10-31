@@ -1,6 +1,6 @@
 {
   "name": "Shopify-Etsy-Monthly-VAT-Compliance-Dashboard",
-  "description": "An interactive, fully functional Shopify & Etsy cross-platform monthly VAT compliance and reconciliation workbook.",
+  "description": "Theseus Workshop shopify-etsy-vat-calculator: Multi-channel Shopify and Etsy monthly VAT compliance, normalization, and reconciliation dashboard.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

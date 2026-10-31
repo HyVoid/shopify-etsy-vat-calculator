@@ -105,8 +105,8 @@ export default function App() {
     const blob = new Blob([str], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
-    link.href = url;
-    link.download = `vat_compliance_backup_${selectedMonth}.json`;
+    const today = new Date().toISOString().split('T')[0];
+    link.download = `Shopify-Etsy-Monthly-VAT-Compliance-Dashboard-backup-${today}.json`;
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -411,9 +411,9 @@ export default function App() {
 
       {/* Humble, literal footer line */}
       <footer className="py-6 border-t border-[#E8E8E6] bg-white print:hidden">
-        <div className="max-w-[1400px] mx-auto px-10 flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#888888] font-mono">
-          <span>VAT COMPLIANCE AUTOMATION WORKBOOK &copy; 2026 — ALL RIGTHS RESERVED</span>
-          <span>CURRENCY: GBP (£) | ENGINE: THEORETICAL TAX RECONCILIATION</span>
+        <div className="max-w-[1400px] mx-auto px-10 flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#888888] font-sans gap-2">
+          <span>All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.</span>
+          <span className="font-mono text-slate-400">Theseus Workshop &copy; 2026</span>
         </div>
       </footer>
     </div>

@@ -41,17 +41,18 @@ export default function Navbar({
     <header className="sticky top-0 z-50 h-[56px] bg-white border-b border-[#E8E8E6] shadow-sm">
       <div className="max-w-[1400px] mx-auto h-full px-10 flex items-center justify-between">
         {/* Brand & Left logo */}
-        <div className="flex items-center space-x-3 select-none">
-          <div className="w-8 h-8 bg-[#051C2C] rounded flex items-center justify-center shadow-inner">
+        <div className="flex items-center space-x-3 select-none shrink-0">
+          <div className="w-8 h-8 bg-[#051C2C] rounded flex items-center justify-center shadow-inner shrink-0">
             <div className="w-4 h-4 border-2 border-white rotate-45"></div>
           </div>
-          <div>
-            <h1 className="text-sm font-bold text-[#051C2C] leading-none tracking-tight">
-              Shopify-Etsy-Monthly-VAT-Compliance-Dashboard
-            </h1>
-            <p className="text-[10px] text-[#888888] tracking-widest uppercase mt-0.5">
-              VAT Compliance Portal
-            </p>
+          <div className="flex items-center space-x-2">
+            <span className="text-base font-semibold text-[#051C2C] tracking-tight font-serif">
+              Theseus Workshop
+            </span>
+            <span className="text-slate-300">/</span>
+            <span className="text-xs font-mono text-slate-500 font-medium">
+              shopify-etsy-vat-calculator
+            </span>
           </div>
         </div>
 
