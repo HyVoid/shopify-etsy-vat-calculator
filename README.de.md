@@ -1,146 +1,173 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Shopify- & Etsy-USt-Rechner: Vorlage & Arbeitsmappe für Steuercompliance in mehreren Ländern
+# Shopify- & Etsy-Umsatzsteuerrechner (Excel-Vorlage): Sofort einsatzbereite EU-OSS- und Mehrländer-Umsatzsteuer-Tabellenkalkulation für Einsteiger
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/d6ee6f09-1f74-4805-87d6-cd1b78da29e4" />
+
 
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform: Browser + Excel](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
-![Tool Type: VAT Compliance & Decision Support](https://img.shields.io/badge/Tool-VAT%20Decision%20Support-orange.svg)
+![Platform: Browser + Excel 365](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel%20365-green.svg)
+![Coverage: 44 Countries Tax Rates](https://img.shields.io/badge/Coverage-44%20Countries%20Built--In-blue.svg)
+![Tool Type: B2C VAT Compliance & Reconciliation](https://img.shields.io/badge/Tool-VAT%20Compliance%20%26%20Audit-orange.svg)
 
-**Automatisieren Sie Ihre grenzüberschreitende E-Commerce-Steuercompliance mit diesem kostenlosen Shopify- und Etsy-USt-Rechner (Umsatzsteuer). Diese wiederverwendbare Excel-Vorlage und dieses browserbasierte Buchhaltungstool gleichen monatliche USt-Anmeldungen in mehreren Ländern, OSS-Erklärungen (One-Stop-Shop) und Umsatzsteuerverbindlichkeiten sofort ab – ohne manuelle Tabellenkalkulationsfehler und ohne Software-Abo.**
+**Das Shopify- & Etsy Monthly VAT Dashboard ist ein sofort einsatzbereiter Umsatzsteuerrechner für den grenzüberschreitenden E-Commerce, eine Tabellenkalkulation für die EU-One-Stop-Shop-(OSS-)Umsatzsteuererklärung und ein automatisiertes Werkzeug zum Abgleich der Umsatzsteuer über mehrere Länder – entwickelt für irische und EU-B2C-Händler physischer Waren. Die makrofreie Excel-365-Vorlage und die kostenlose browserbasierte Steuer-App richten sich an Shop-Betreiber ohne Buchhaltungskenntnisse: Sie fügen zwei unverarbeitete CSV-Exporte ein und trennen damit sofort Preise inkl. USt in Nettoumsatz und geschuldete Umsatzsteuer, holen erstattete Umsatzsteuer aus Rückerstattungen zurück, gleichen die Standardsätze in 44 Ländern ab und führen 5 Prüfungen vor der Meldung durch – ohne manuelle VLOOKUP-Fehler und ohne teure monatliche Neuaufbauten der Buchhaltung.**
 
-**Keine Registrierung. Keine Installation. Kostenlos im Browser.**
+**Keine Anmeldung. Keine Makros oder Add-ins. 100 % Datenschutz, alle Daten bleiben lokal.**
 
-Testen Sie Ihre Transaktionsdaten in der kostenlosen Browserversion. Für die laufende monatliche Buchhaltung wechseln Sie zum herunterladbaren Excel-Format (mit 30-tägiger bedingungsloser Geld-zurück-Garantie).
+Fügen Sie zwei Plattform-Exporte ein. Sie erhalten sofort eine Zusammenfassung der geschuldeten Umsatzsteuer je Land und eine klare Diagnoseliste der konkreten Auffälligkeiten, die Sie vor der Abgabe Ihrer Umsatzsteuererklärung oder der Weitergabe der Zahlen an Ihren Steuerberater beheben müssen. Testen Sie einen einzelnen Batch im kostenlosen Web-Tool oder laden Sie die dauerhaft nutzbare Excel-Arbeitsmappe herunter (abgesichert durch eine 30-Tage-Geld-zurück-Garantie ohne Rückfragen).
+
+> 🌐 **Schritt 1: Kostenlose Browser-Diagnose für einen einzelnen Batch** → [*Die kostenlose browserbasierte Shopify- & Etsy-Umsatzsteuer-App starten (sofortiger Gesundheitscheck)*](https://hyvoid.github.io/shopify-etsy-vat-calculator/)
 >
-> 🌐 **Sofortige Steuerabstimmung durchführen** → [*Die kostenlose USt-Rechner-App im Browser ausprobieren*](https://hyvoid.github.io/shopify-etsy-vat-calculator/)
+> 📥 **Schritt 2: Dauerhafte automatisierte monatliche Meldung** → [*Die fertige Excel-365-Vorlage für Umsatzsteuer-Compliance und Abgleich in 44 Ländern herunterladen*](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/d53f149c-2873-4197-b3c6-ebb8a0f00f2a" />
+
 >
-> 📥 **Monatliche Anmeldungen automatisieren** → [*Die wiederverwendbare Excel-Vorlage für USt-Buchhaltung herunterladen*](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
->
-> Verfügbar als **browserbasierte HTML-Software** und als **makrofreie Excel-Arbeitsmappe**.
+> 🧰 **Das komplette E-Commerce-Toolkit durchsuchen** → [*Sofort einsetzbare Tabellenkalkulationen für E-Commerce-Finanzen und Steuern bei Theseus Workshop entdecken*](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
 
 ---
 
-## USt-Schwachstellen im E-Commerce & automatisierte Lösungen (Was die Vorlage für Sie überwacht)
+## Schmerzpunkte bei der E-Commerce-Umsatzsteuer & automatisierte Lösungen (was Sie damit im Blick behalten)
 
-Statt grundlegende Kennzahlen aufzulisten, zeigt diese Vorlage zur Steuerabstimmung, wie sie typische Buchhaltungsprobleme im E-Commerce auf konkrete Anmeldelösungen abbildet:
+Anstatt Ihnen den Aufbau komplexer Buchhaltungsformeln von Grund auf zuzumuten, ordnet diese **Shopify- und Etsy-Umsatzsteuer-Tabellenkalkulation** die häufigsten Einstiegsprobleme bei der Steuererklärung direkt den automatisierten Ergebnissen der Arbeitsmappe zu:
 
-* **Schwachstelle:** Zersplitterte CSV-Exporte über mehrere Kanäle.
-  * **Lösung:** Konsolidiert die monatlich zahlbare Umsatzsteuer nach Ländern aus Shopify und Etsy in einem *einzigen Berichtsledger*.
-* **Schwachstelle:** Intransparente Nettoumsatzzahlen.
-  * **Lösung:** Berechnet Bruttoumsätze, Nettoumsätze, geschuldete USt, Erstattungs-USt und endgültige Steuerbelastungen gleichzeitig für prüfungsfähige Berichte.
-* **Schwachstelle:** Stille Fehler bei der Zuordnung von Steuerjurisdiktionen.
-  * **Lösung:** Markiert Transaktionen mit fehlenden Länderzuordnungen, falschen Steuerannahmen oder Berichtsinkonsistenzen, bevor die Anmeldung erfolgt.
-* **Schwachstelle:** Überzahlte grenzüberschreitende Steuern durch Marketplace-Berechnungslogik.
-  * **Lösung:** Prüft die von der Plattform einbehobenen Steuerbeträge gegen Ihre intern berechneten USt-Verbindlichkeiten.
-* **Schwachstelle:** Verlorenes Geld bei Kundenretouren.
-  * **Lösung:** Automatisiert erstattungsbedingte USt-Rückforderungen, die sonst in Ihren OSS-Erklärungen fehlen würden.
-* **Schwachstelle:** Anmeldungsstress in letzter Minute.
-  * **Lösung:** Liefert einen verbindlichen Anmeldungsstatus, bevor Sie USt-Anmeldungen oder OSS-Erklärungen an das Finanzamt übermitteln.
+| Schmerzpunkt von E-Commerce-Einsteigern bei der Umsatzsteuer | Häufige Suchintention / Problemstellung | So löst diese automatisierte Umsatzsteuer-Arbeitsmappe das Problem | Fertiges Ergebnis für die Meldung |
+| :--- | :--- | :--- | :--- |
+| **Zersplitterte CSV-Exporte aus mehreren Kanälen** | *„Wie kombiniere ich Shopify- und Etsy-Verkäufe für die Umsatzsteuererklärung?“* | Führt separate **Shopify-Bestellexporte** und **Etsy-Kontoauszugs-CSVs** über zwei eigene Import-Registerblätter zu einer normalisierten Transaktionsliste zusammen. | Einheitliche Mehrkanal-Transaktionsdatenbank in einem einzigen Journal. |
+| **Verwirrende Aufteilung von Preisen inkl. USt** | *„Nettoumsatz und Umsatzsteuer aus dem Bruttopreis in Excel berechnen“* | Zieht die Umsatzsteuer je Bestellung automatisch anhand des Ziellandes aus **B2C-Kundenpreisen inkl. USt** heraus und bietet zusätzlich eine Spalte für manuelle Korrekturen. | Exakter **Bruttoumsatz, Nettoumsatz und geschuldete Umsatzsteuer** je Bestellung und Land. |
+| **Vergessene Steuerverrechnung bei Rückerstattungen und Retouren** | *„Wie fordere ich die Umsatzsteuer für erstattete Shopify-/Etsy-Bestellungen zurück?“* | Verfolgt Kundenretouren und berechnet die **Umsatzsteuer-Erstattung aus Rückerstattungen** automatisch, damit Sie auf stornierte oder zurückgesandte Verkäufe nie zu viel Steuer zahlen. | Automatischer **Abzug der erstatteten Umsatzsteuer**, verrechnet mit der gesamten geschuldeten Umsatzsteuer. |
+| **Manuelles Nachschlagen grenzüberschreitender Steuersätze** | *„Aktuelle Referenztabelle der EU-OSS- und internationalen Umsatzsteuersätze“* | Verbindet Ihr Control Panel mit einer integrierten **Steuersatz-Tabelle für 44 Länder** (Abgleich über vollständige Ländernamen oder zweistellige ISO-Codes wie `IE`, `DE`, `FR`). | Sofortiger Satzabgleich für **EU-27, UK, 12 Länder im Nahen Osten, 3 nordamerikanische Länder und Brasilien**. |
+| **Versteckte Abweichungen bei der Plattformsteuer** | *„Die von Etsy und Shopify erhobene Steuer stimmt nicht mit der Umsatzsteuererklärung überein“* | Führt eine **5-stufige Prüfung vor der Meldung** durch: doppelte Bestellungen, fehlende Umsatzsteuer, unausgeglichene Zeilen, unbekannte Länder und Abweichungen bei der Plattformsteuer. | Umsetzbare Ausnahmeliste mit den exakten Zeilen, die vor der Meldung korrigiert werden müssen. |
+| **Unsicherheit bei der Übergabe an den Steuerberater und bei Prüfungen** | *„Monatliche Umsatzsteuer-Zusammenfassung als Vorlage für den E-Commerce-Steuerberater“* | Fasst saubere Monatszahlen mit einer automatisch erzeugten, allgemein verständlichen **Stellungnahme für den Steuerberater** zusammen – bereit für lokale Erklärungen oder die vierteljährliche OSS-Meldung. | Prüfungssichere **Zusammenfassung der geschuldeten Umsatzsteuer je Land** ohne externe Plugins. |
 
 ---
 
-# Warum ich dieses Tool zur Steuerabstimmung gebaut habe
+## Die Geschäftslogik & Methodik: versteckte Gewinnabflüsse für Einsteiger beheben
 
-Die meisten kleinen und mittleren grenzüberschreitenden E-Commerce-Unternehmen scheitern nicht, weil IOSS- oder EU-USt-Regeln unverständlich wären.
+Die meisten kleinen und mittleren Shopify- und Etsy-Händler verlieren kein Geld und scheitern nicht an Steuerprüfungen, weil EU-Umsatzsteuer- oder OSS-Regeln unmöglich zu verstehen wären. Sie verlieren Geld, weil **drei versteckte kommerzielle blinde Flecken** den Nettogewinn still abziehen, wenn man sich auf rohe Plattform-Auszahlungen oder selbst gebaute Tabellenkalkulationen verlässt:
 
-Sie scheitern, weil die USt-Berechnungen zwischen Shop-Plattformen, rohen CSV-Exporten, externen Steuerberatern, Marketplaces und lokalen Steuerjurisdiktionen zersplittern.
+### 1. Die Illusion des Bruttopreises inkl. USt (warum Bruttoauszahlungen über Ihre Marge lügen)
+Wenn Sie physische Waren im B2C in Irland oder der EU verkaufen, enthalten Ihre Checkout-Preise Umsatzsteuer. Ein typischer Anfängerfehler ist, den Bruttoumsatz mit dem Steuersatz zu multiplizieren (z. B. `€100 × 23% = €23`), statt die Umsatzsteuer rückwärts aus dem Bruttobetrag herauszurechnen (`€100 - (€100 ÷ 1.23) = €18.70`), oder den Steuerschätzungen der Plattform beim grenzüberschreitenden Versand blind zu vertrauen. Ohne eine Aufteilung je Bestellung in **Bruttoumsatz**, **Nettoumsatz der Produkte** und **geschuldete Umsatzsteuer** zahlen Sie entweder dem Finanzamt zu viel aus Ihrer eigenen Nettomarge oder melden Ihre Schuld zu niedrig.
 
-Ein typischer manueller Buchhaltungs-Workflow sieht oft so aus:
-1. Shopify-Finanzberichte exportieren.
-2. Etsy-Transaktionsabrechnungen exportieren.
-3. Rohdaten in separate, leicht fehleranfällige Tabellen einfügen.
-4. Länderspezifische USt manuell berechnen.
-5. Vom Marketplace einbehobene Steuerbeträge mit den Buchhaltungsannahmen abgleichen.
-6. Steuerdiskrepanzen erst bei der nächtlichen Anmeldungsvorbereitung entdecken.
+### 2. Die Falle mit nicht geltend gemachter Erstattungssteuer (Steuern auf Geld zahlen, das Sie zurückgegeben haben)
+Wenn ein Kunde einen Artikel bei Shopify oder Etsy zurückgibt, erstatten Sie den Preis inkl. USt. In manuellen Monatstabellen summieren Verkäufer häufig Bruttobestellungen aus einem Export und vergessen, den **Anteil der erstatteten Umsatzsteuer** systematisch über verschiedene Länder hinweg zu verrechnen. **Objektiver finanzieller Fakt:** Jede €1,000 an grenzüberschreitenden Rückerstattungen, bei denen Sie die rückholbare Umsatzsteuer nicht abziehen, kostet Ihr Unternehmen rund **€160 bis €200 reinen Cash-Verlust**, den Sie direkt an das Finanzamt für Verkäufe zahlen, die es nicht mehr gibt.
 
-Der eigentliche analytische Fehler sind nicht „falsche Excel-Steuerformeln“. Der Fehler besteht darin, **Steuerentscheidungen ohne ein einheitliches, transaktionsbasiertes Modell Ihrer Umsatzsteuerverbindlichkeit** zu treffen.
+### 3. Sich summierende Abweichungen über mehrere Länder & abrechenbare Stunden des Steuerberaters
+Betrachten Sie ein reales Monatsabstimmungsszenario für einen einzelnen Markt:
 
-Zum Beispiel:
+| Steuerbewertungsszenario | Schätzung mit traditioneller manueller Tabelle |
+| :--- | :--- |
+| **Bruttoumsatz B2C in Deutschland (DE)** | €42,800 |
+| **Lokaler Standard-Umsatzsteuersatz** | 19% |
+| **Von der Shopify-Plattform erhobene Steuer** | €6,750 |
+| **Tatsächlich rechtlich berechnete geschuldete Umsatzsteuer** | €6,832 |
+| **Nicht erklärbare Abweichung beim Abgleich** | **€82** |
 
-| Szenario der Steuerbewertung | Traditionelle manuelle Buchhaltung |
-| ----------------------- | ----------------------------- |
-| Bruttoumsätze Deutschland (DE)| €42,800                       |
-| Angenommener lokaler USt-Satz  | 19%                           |
-| Von Shopify einbehobene Steuer   | €6,750                        |
-| Tatsächlich berechnete USt   | €6,832                        |
-| **Abstimmungsdifferenz**| **€82**                    |
+Eine **Abweichung von €82** in einem einzelnen Monat wirkt klein. Multiplizieren Sie diese Lücke über 4 EU-Zielmärkte, 2 Vertriebskanäle (Shopify + Etsy), Dutzende monatliche Kundenrückerstattungen und 4 vierteljährliche OSS-Meldungen, stehen Sie vor kumulierten Buchhaltungsabweichungen in Höhe von Tausenden Euro – oder vor Hunderten Euro zusätzlicher abrechenbarer Stunden für einen externen Steuerberater, der Ihre unaufgeräumten CSV-Dateien bereinigt.
 
-Eine Differenz von €82 wirkt unerheblich. Multipliziert man sie jedoch über vier EU-Länder, zwei Marketplace-Plattformen, hunderte Erstattungen und quartalsweise OSS-Anmeldezeiträume, wird daraus ein systemisches Abstimmungsproblem statt eines einfachen Rechenfehlers.
-
-Diese Arbeitsmappe macht einen wiederholbaren E-Commerce-Analyserahmen zum Produkt:
-
-> **Rohe Exporte einmal importieren → Daten einmal automatisch normalisieren → Anomalien einmal validieren → präzise Steueranmeldeergebnisse wiederholt erzeugen.**
-
-Das Ziel ist keine Automatisierung um ihrer selbst willen. Das Ziel ist Gewissheit:
-> **„Kann die USt-Anmeldung dieses Monats für mehrere Länder mit 100 % Sicherheit beim Finanzamt eingereicht werden?“**
+Diese Arbeitsmappe macht eine narrensichere Buchhaltungsmethodik für Nicht-Buchhalter zum Produkt:
+> **Zwei rohe Exporte einmal einfügen → 44 Ländersteuerregeln sofort automatisch abgleichen → 5 Arten von Datenfehlern automatisch erkennen → in Sekunden Steuerberater-fähige Summen der geschuldeten Umsatzsteuer erzeugen.**
 
 ---
 
-## USt-Compliance im Vergleich: manuell vs. automatisiert
+## Vergleich der Umsatzsteuer-Compliance: manuelle Tabellen vs. automatisiertes Excel-Dashboard
 
-| Häufiges Compliance-Problem             | Traditioneller manueller Buchhaltungs-Workflow | Automatisierte USt-Arbeitsmappe             |
-| ---------------------------------------- | -------------------------------------- | ------------------------------------------- |
-| **Fragmentierte Verkäufe über Plattformen**   | Shopify- und Etsy-Daten manuell per VLOOKUP konsolidieren | Daten in einen vorgefertigten, einheitlichen Transaktionsledger einlesen |
-| **Fehlende grenzüberschreitende Steuerzuordnungen**    | Berichtsfehler erst spät beim Upload ins Anmeldeportal entdecken | Fehlende Jurisdiktionen automatisch im Validierungs-Dashboard markieren |
-| **Differenzen zwischen Marketplace und tatsächlicher Steuer** | Plattformlogik manuell Zeile für Zeile abstimmen | Automatische Differenzenerkennung für Abweichungen > €1.00 auslösen |
-| **Verrechnung der Erstattungs-USt**          | Erstattungssteuer-Rückforderung vergessen und zu viel zahlen | Erstattungs-USt-Verrechnung automatisch für korrekte Abzüge berechnen |
-| **Monatliche Anmeldungsvorbereitung**           | Die Steuer-Tracking-Tabelle in jedem Berichtszyklus neu aufbauen | Strukturierte Anmeldeergebnisse automatisch über dynamische Arrays erzeugen |
-| **Validierung der Compliance-Bereitschaft**      | Vollständig auf manuelle Prüfung durch externes Buchhaltungspersonal angewiesen | Systematische Ausnahmenkontrolle vor der endgültigen Steueranmeldung |
-
----
-
-## Praxisnahe USt-Compliance-Szenarien für grenzüberschreitende Teams
-
-Diese Vorlage deckt erfolgskritische Workflow-Bedürfnisse in verschiedenen Betriebsszenarien ab:
-
-* **Quartalsweise OSS-/IOSS-Erklärungen:** Aggregation grenzüberschreitender B2C-Verkäufe in der gesamten EU für eine korrekte Meldung an das Steuerportal.
-* **Multikanal-Marketplace-Abstimmung:** Überbrückung der Lücke zwischen der Marketplace-Facilitator-Steuerlogik von Etsy und der eigenständigen Steuererhebung durch Shopify-Händler.
-* **Auditvorbereitung & Ledger-Backup:** Transaktionsgenaues Backup aller Steuerberechnungen zur Verteidigung gegen steuerliche Betriebsprüfungen.
-* **Rentabilitäts- & Nettomargenanalyse:** Herausrechnen der USt-Komponente aus den Brutto-Marketplace-Auszahlungen, um den echten Nettoproduktumsatz zu verstehen.
+| Aufgabe in der E-Commerce-Steuerbuchhaltung | Traditioneller manueller Tabellen-Workflow | Automatisiertes Shopify- + Etsy-Umsatzsteuer-Dashboard (Excel 365) |
+| :--- | :--- | :--- |
+| **Zusammenführung von CSVs mehrerer Plattformen** | Kopieren, Einfügen und manuelles Ausrichten unpassender Spalten aus **Shopify-Bestellungen-CSV** und **Etsy-Direct-Checkout-CSV**. | Rohe Exporte in zwei eigene Import-Registerblätter einfügen; die Arbeitsmappe führt beide zu einem **einheitlichen Transaktionsjournal** zusammen. |
+| **Steuersatzabgleich für 44 Länder** | Aktuelle EU-/UK-Steuersätze bei Google suchen und fragile **VLOOKUP-Formeln** pflegen, die an der Schreibweise eines Landes scheitern. | Integrierte **Steuerdatenbank für 44 Länder** (Art, Satz, Rechtsgrundlage, Hinweise, Prüfdatum) mit Abgleich über **Ländernamen oder zweistellige ISO-Codes (`IE`, `DE`)**. |
+| **Aufteilung von brutto zu netto** | Manuelle Divisionsformeln Zeile für Zeile schreiben und Gefahr laufen, Fehler über Tausende B2C-Bestellungen zu ziehen. | **Dynamische Excel-365-Formeln** trennen Preise inkl. USt automatisch in **Nettoumsatz und geschuldete Umsatzsteuer**, ohne Zellen zu ziehen. |
+| **Umsatzsteuer-Erstattung bei Kundenrückerstattungen** | Gutschriften manuell suchen oder Erstattungsabzüge ganz weglassen – mit der Folge direkter Steuerüberzahlung. | Berechnet die **bei Rückerstattungen zurückgeholte Umsatzsteuer** je Steuerhoheit automatisch und zieht sie von der endgültigen **geschuldeten Umsatzsteuer** ab. |
+| **Fehler- und Abweichungsprüfung vor der Meldung** | Zeilen per Augenmaß stichprobenartig prüfen oder fehlerhafte Zahlen direkt ins Finanzportal hochladen. | Führt **5 automatisierte Prüfungen vor der Meldung** aus: doppelte Bestellungen, fehlende Umsatzsteuer, unausgeglichene Beträge, unbekannte Länder und Abweichungen bei der Plattformsteuer. |
+| **Datensicherheit und Softwarekosten** | €50–€200 pro Monat für Cloud-SaaS-Steuerkonnektoren zahlen, die API-Zugriff auf Ihre Shop-Daten verlangen. | **100 % makrofreie, add-in-freie lokale Excel-Datei**; einmaliger Download, bei dem sensible Finanzdaten Ihren Computer nie verlassen. |
 
 ---
 
-## Für wen ist das? (Zielrollen & Anwendungsfälle)
+## Szenarien mit hoher Kaufabsicht: wann Sie diese Umsatzsteuer-Abstimmungsvorlage brauchen
 
-Dieses Tool verknüpft bestimmte Rollen ausdrücklich mit ihren operativen Engpässen:
+Diese **Arbeitsmappe für E-Commerce-Umsatzsteuer-Compliance** ist gezielt für operativ heikle Momente gebaut, in denen Einsteiger und kleine Teams sich keine Tabellenfehlersuche leisten können:
 
-* **Shopify-International-Händler**, die eine *automatisierte EU-USt-Berechnungsvorlage* brauchen, um fehleranfällige manuelle Tabellen zu ersetzen.
-* **Etsy-Verkäufer**, die eine *monatliche Software zur Verfolgung der Steuercompliance* suchen, die Erstattungsverrechnungen automatisch übernimmt.
-* **E-Commerce-Finanzmanager**, die eine *multikanale Steuerabstimmungstabelle* suchen, um unterschiedliche Datenströme zu vereinen.
-* **Fractional CFOs und Buchhalter**, die mehrere Kundenportfolios mit einem standardisierten *grenzüberschreitenden Buchhaltungs-Dashboard* verwalten.
-* **USt-Berater**, die eine robuste *Steuerdiagnose- und Validierungsarbeitsmappe* für das Kunden-Onboarding benötigen.
-
-Dieses Tool ist **nicht** geeignet für:
-* ERP-Ersatzprojekte (z. B. NetSuite oder SAP).
-* Globale Unternehmens-Steuer-Engines (z. B. Avalara oder Vertex).
-* API-Gateways für automatisierte Steueranmeldungen.
-* Plugins für Echtzeit-Transaktionssteuerberechnung im Checkout.
-
-Fortgeschrittene Tabellenkalkulationskenntnisse sind nicht erforderlich.
+- **Steuererklärung in der Hochsaison (BFCM & Q4-Feiertage):** Wenn das Bestellvolumen im November und Dezember um das Fünffache steigt und Sie keinerlei Zeit haben, ausländische Steuersätze zu recherchieren oder defekte Tabellenzeilen zu reparieren.
+- **Vorbereitung irischer und EU-inländischer Erklärungen plus OSS:** Trennung inländischer Umsatzsteuererklärungen (z. B. Meldungen über Irish Revenue ROS) von pan-europäischen **One-Stop-Shop-(OSS-)Aufschlüsselungen je Land**.
+- **Saubere Arbeitspapiere an Ihren Steuerberater übergeben:** Erzeugung einer standardisierten Monatszusammenfassung mit integrierter **Stellungnahme für den Steuerberater**, um Prüfzeit und Buchhaltungskosten Ihres Buchhalters zu senken.
+- **Abgleich von Etsy-Marktplatzsteuer und direkten Shopify-Verkäufen:** Exakt erkennen, wo die von der Plattform berechnete Steuer von Ihrer gesetzlichen Umsatzsteuerschuld zum Standardsatz abweicht – vor der Meldung.
 
 ---
 
-## Schnellstart-Workflow: Stimmen Sie Ihre erste USt-Anmeldung ab
+## Für wen das gedacht ist: Zielverkäufer, Rollen & 30-Sekunden-Eignungstest
 
-Folgen Sie diesem schlanken Ablaufprotokoll, um noch heute Ihre Steuerbelastungen zu prüfen:
+### Zielrollen & Anwendungsfälle (Rolle + passendes Werkzeug)
+- **Shopify- & Etsy-Shop-Inhaber (Einsteiger):** Suchen eine *sofort einsetzbare Shopify- und Etsy-Umsatzsteuer-Tabellenkalkulation*, die keinerlei Buchhaltungs- oder Excel-Formelkenntnisse erfordert.
+- **Irische & EU-B2C-Händler physischer Waren:** Suchen eine *Excel-Vorlage für die EU-Umsatzsteuererklärung zum Standardsatz*, zugeschnitten auf **Erwachsenenbekleidung, Kosmetik, Hautpflege, Accessoires sowie Wohn- und Geschenkartikel**.
+- **Solo-Gründer im E-Commerce & Nebenerwerbs-Seller:** Suchen einen *monatlichen E-Commerce-Steuer-Tracker ohne wiederkehrende SaaS-Abos*, um ihre Steuerzahlen in unter 5 Minuten selbst vorzubereiten.
+- **E-Commerce-Buchhalter & externe Teilzeit-Steuerberater:** Brauchen eine *standardisierte Mehrkanal-Arbeitsmappe für den Umsatzsteuer-Audit* mit integrierten 5-Punkte-Anomalieprüfungen, um Shopify-/Etsy-Mandanten schnell zu übernehmen.
 
-1. **Plattformdaten exportieren:** Laden Sie Ihre Standard-CSV-Transaktionsberichte aus den Shopify- und Etsy-Händlerdashboards für den Zielberichtsmonat herunter.
-2. **Diagnose ausführen:** Fügen Sie Ihre Rohdaten in den [*Kostenlosen USt-Rechner im Browser*](https://hyvoid.github.io/shopify-etsy-vat-calculator/) ein, um einen sofortigen Steuer-Gesundheitscheck durchzuführen.
-3. **Ausnahmen beheben:** Nutzen Sie das Validierungszentrum, um nicht zugeordnete Ländercodes, Differenzwarnungen und nicht zurückgeforderte Erstattungssteuern zu identifizieren.
-4. **Künftige Anmeldungen automatisieren:** Sobald Ihre Daten sauber sind, erzeugen Sie Ihren finalen USt-Anmeldebericht. Für den laufenden Monatsbetrieb **[laden Sie die wiederverwendbare Excel-USt-Arbeitsmappe herunter](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)**, um Ihre benutzerdefinierten Jurisdiktionszuordnungen zu fixieren, wiederkehrende Einrichtung zu eliminieren und Ihre grenzüberschreitende Compliance dauerhaft zu standardisieren.
+### Passt das zu Ihnen? (30-Sekunden-Eignungstest)
+Sie sind ein **100%iger Fit** für diese Arbeitsmappe, wenn Sie alle sechs Aussagen unten mit **JA** beantworten können:
+1. **Physische B2C-Waren:** Sie verkaufen physische Produkte direkt an Verbraucher (B2C) über **Shopify und/oder Etsy**.
+2. **Irische oder EU-Umsatzsteuerregistrierung:** Sie sind in **Irland oder einem anderen EU-Mitgliedstaat** umsatzsteuerlich registriert.
+3. **Produkte zum Standard-Umsatzsteuersatz:** Ihr Sortiment wird überwiegend mit dem **nationalen Standard-Umsatzsteuersatz** besteuert (z. B. Erwachsenenbekleidung, Beauty/Hautpflege, Modeaccessoires, Wohnaccessoires, Geschenkartikel).
+4. **Kundenpreise inkl. USt:** Die Ihren Kunden angezeigten Preise enthalten bereits die Umsatzsteuer.
+5. **Selbstmelder oder Übergabe an den Steuerberater:** Sie reichen Ihre monatlichen/zweimonatlichen/vierteljährlichen Umsatzsteuererklärungen selbst ein oder bereiten die Summen für Ihren Steuerberater vor.
+6. **Excel-365-Desktop-Nutzer:** Sie verwenden **Microsoft Excel 365 auf dem Desktop (Windows oder Mac)**, das die automatischen dynamischen Array-Formeln ermöglicht.
+
+### Wer diese Version nicht kaufen sollte (strikte Grenzen)
+Um Ihre Zeit und Ihr Geld zu sparen: **Kaufen Sie diese Arbeitsmappe nicht**, wenn einer der folgenden Punkte auf Ihr Geschäft zutrifft:
+- **US-Händler (Sales Tax):** Die USA verwenden eine staatliche/lokale Sales Tax, die beim Checkout auf den Nettopreis aufgeschlagen wird, nicht Preise inkl. USt. Dieses Werkzeug ist nicht für US-Sales-Tax gebaut.
+- **Händler in Indien (GST):** Indische GST-Sätze hängen von Preisschwellen je Artikel und HSN-Produktkategorien ab und erfordern eine Rechnung-für-Rechnung-Meldung, die hier nicht unterstützt wird.
+- **Händler von nullbesteuerten oder ermäßigten Waren:** Wenn Sie überwiegend **Kinderbekleidung und -schuhe in Irland (0 % USt)**, Lebensmittel, Bücher, Medizinprodukte oder gemischte Waren mit ermäßigtem Satz verkaufen. Diese Version wendet **einen Standard-Umsatzsteuersatz pro Land** an.
+- **Digitale Produkte, Dienstleistungen & B2B-Reverse-Charge:** Nicht gebaut für SaaS/digitale Downloads, Dienstleistungsrechnungen, B2B-Reverse-Charge-Transaktionen oder Händler außerhalb der EU, die über IOSS ohne EU-Registrierung importieren.
+- **Amazon-, TikTok-Shop- oder eBay-Händler:** Die nativen Import-Registerblätter sind speziell für **Shopify- und Etsy-Exporte** strukturiert (andere Kanäle erfordern ein manuelles Neuzuordnen der Spalten vor dem Einfügen).
+
+---
+
+## Schnellstart-Workflow: Ihre monatliche Umsatzsteuer in 4 einfachen Schritten abgleichen
+
+Folgen Sie dieser Anleitung ohne Programmierung, um Ihre grenzüberschreitende Umsatzsteuer heute zu prüfen:
+
+### Schritt 1: Monatliche Shopify- & Etsy-Bestell-CSVs exportieren
+Melden Sie sich im **Shopify Admin** und im **Etsy Shop Manager** an. Laden Sie Ihre üblichen monatlichen Bestell-/Transaktions-CSV-Exporte für den gewünschten Meldezeitraum herunter. Spalten müssen nicht manuell gelöscht oder vorab sortiert werden.
+
+### Schritt 2: Sofortige Diagnose für einen einzelnen Batch im Browser
+Möchten Sie Ihre Rohdaten jetzt testen? Fügen Sie Ihre exportierten Zeilen in den [**kostenlosen browserbasierten Shopify- & Etsy-Umsatzsteuer-Diagnoserechner**](https://hyvoid.github.io/shopify-etsy-vat-calculator/) ein, um Ihre Länderaufschlüsselung als Vorschau zu sehen und Formatierungsprobleme in Sekunden zu erkennen.
+
+### Schritt 3: Die 5 automatisierten Prüfungen vor der Meldung durchsehen
+Prüfen Sie die Diagnosehinweise auf die fünf gefährlichsten Meldefehler:
+1. **Doppelte Bestell-IDs** über Importe hinweg.
+2. **Fehlende Umsatzsteuerbeträge** bei steuerpflichtigen Transaktionen.
+3. **Unausgeglichene Zeilensummen**, bei denen netto + Steuer nicht brutto ergibt.
+4. **Unbekannte Ländercodes** oder leere Lieferziele.
+5. **Abweichungen bei der Plattformsteuer**, wenn die von Shopify/Etsy erhobene Steuer von der berechneten gesetzlichen Umsatzsteuer abweicht.
+
+### Schritt 4: Für die Hochsaison auf die wartungsfreie 44-Länder-Excel-Arbeitsmappe umsteigen
+Die grenzüberschreitende Umsatzsteuer und die Logik des Brutto-zu-Netto-Abgleichs sind im Hintergrund komplex – **Sie müssen jedoch keinen einzigen Steuersatz nachschlagen und keine einzige Excel-Formel selbst schreiben**.
+
+Wenn Sie vom einmaligen Test im Browser zum [**wiederverwendbaren Excel-365-Monats-Umsatzsteuer-Dashboard**](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard) wechseln, ist die gesamte Arbeit für Sie vorgefertigt:
+- **Vorgefertigte Steuer-Referenzdatenbank für 44 Länder:** Enthält **EU-27, das UK, 12 Länder im Nahen Osten, 3 nordamerikanische Länder (USA, Kanada, Mexiko) und Brasilien (1)**. Jede Länderzeile ist dokumentiert mit **Steuerart, Standardsteuersatz, Rechtsgrundlage, Praxishinweisen und Datum der letzten Prüfung**.
+- **Kein Ziehen von Formeln (sich automatisch aktualisierende dynamische Regeln):** Gebaut mit nativer Excel-365-Abgleichslogik, die sowohl vollständige Ländernamen als auch zweistellige ISO-Codes erkennt (`IE`, `DE`, `FR`). **Sie müssen nicht einmal die Zellecke doppelklicken, um Formeln nach unten zu kopieren** – laden Sie die Datei einfach auf Ihren Desktop, fügen Sie Ihre rohen Shopify- und Etsy-Daten in die Import-Registerblätter ein, und Ihre vollständige Umsatzsteuer-Zusammenfassung je Land sowie die Stellungnahme für den Steuerberater füllen sich sofort.
+- **Gebaut für geschäftige Hochsaisons:** Hören Sie auf, während Q4 und Steuerfristen Stunden mit dem Gegenprüfen von Regierungsportalen zu verschwenden. Speichern Sie jeden Monat eine saubere lokale Kopie und erledigen Sie Ihre Umsatzsteuer-Vorbereitung in Minuten.
+
+👉 [**Das sofort einsetzbare Shopify- + Etsy-Monats-Umsatzsteuer-Dashboard (Excel 365) hier herunterladen**](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
+
+---
+
+## Über Theseus Workshop & weitere sofort einsetzbare E-Commerce-Werkzeuge
+
+**Theseus Workshop** entwickelt praktische, überflüssigkeitsfreie Finanzvorlagen, Dashboards für Steuer-Compliance und operative Entscheidungshilfen für unabhängige E-Commerce-Händler, grenzüberschreitende Verkäufer und schlanke Finanzteams. Jedes Werkzeug ist darauf ausgelegt, komplexe Buchhaltungs- und Betriebsregeln in sofort nutzbare Tabellenkalkulationen zu verwandeln – ohne Abos, ohne Makros und ohne steile Lernkurve.
+
+- 🛒 **Hauptshop & vollständige Vorlagenbibliothek:** [**TheseusWorkshop.com besuchen und alle Tabellenkalkulationen für E-Commerce-Buchhaltung, Gewinnverfolgung und Steuer-Compliance durchsuchen**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
+- 📊 **Direkte Produktseite:** [**Das Shopify- + Etsy-Monats-Umsatzsteuer-Dashboard (Excel-365-Arbeitsmappe) mit 30-Tage-Geld-zurück-Garantie erhalten**](https://www.theseusworkshop.com/l/ytjhap?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=shopify-etsy-vat-dashboard)
+- 🌐 **Kostenloses Web-Tool:** [**Den kostenlosen browserbasierten Shopify- & Etsy-Umsatzsteuerrechner starten**](https://hyvoid.github.io/shopify-etsy-vat-calculator/)
 
 ---
 
 ## Technische Details
 
 <details>
-<summary>Für technische Prüfer, Excel-Buchhaltungspraktiker und Finanzanalysten</summary>
+<summary>Für technische Prüfer, Praktiker der Excel-Buchhaltung und Finanzanalysten</summary>
 
 ---
 
-### Arbeitsmappen-Architektur
+### Architektur der Arbeitsmappe
 
-Die Arbeitsmappe folgt einer vierstufigen Analysearchitektur, die auf die Integrität finanzieller Daten ausgelegt ist:
+Die Arbeitsmappe folgt einer vierstufigen Analyse-Architektur, die auf die Integrität von Finanzdaten ausgelegt ist:
 
 ```text
 DATA INPUT
@@ -155,34 +182,34 @@ MONTHLY VAT REPORT (AUDIT-READY)
 
 ```
 
-| Blattname | Architekturschicht | Hauptbuchhaltungszweck |
+| Sheet-Name | Architekturebene | Zentrale Buchhaltungsfunktion |
 | --- | --- | --- |
-| Control Panel | Präsentation | Parameter- und KPI-Überwachung |
-| Shopify Import | Datenaufnahme | Shopify-Roh-CSV-Einlesen |
-| Etsy Import | Datenaufnahme | Etsy-Roh-CSV-Einlesen |
-| Normalization Engine | Datenengineering | Einheitlicher Transaktionsledger |
-| VAT Calculation Engine | Berechnung | Steuerberechnung und -verteilung |
-| Validation Center | Qualitätssicherung | Ausnahmeerkennung |
-| Monthly VAT Report | Ausgabe | Anmeldefähiger Bericht |
+| Control Panel | Präsentation | Parameter und KPI-Überwachung |
+| Shopify Import | Datenaufnahme | Rohe CSV-Daten aus Shopify aufnehmen |
+| Etsy Import | Datenaufnahme | Rohe CSV-Daten aus Etsy aufnehmen |
+| Normalization Engine | Daten-Engineering | Einheitliches Transaktionsjournal |
+| VAT Calculation Engine | Berechnung | Steuerberechnung und -zuordnung |
+| Validation Center | Qualitätssicherung | Erkennung von Ausnahmefällen |
+| Monthly VAT Report | Ausgabe | Meldungsfertige Berichte |
 
-**Faustregel:** Die Validierung erfolgt immer, bevor Berichtsergebnisse operationell vertrauenswürdig sind.
+**Faustregel:** Die Validierung erfolgt immer, bevor Berichtsausgaben operativ verlässlich werden.
 
 ---
 
-### Drei Fallen, die selbst erfahrene E-Commerce-Finanzteams erwischen
+### Drei Fallen, in die auch erfahrene E-Commerce-Finanzteams tappen
 
-#### Falle 1 — Plattformsteuer mit tatsächlicher Steuerbelastung gleichsetzen
+#### Falle 1 – die Annahme, dass die Plattformsteuer der tatsächlichen Steuerschuld entspricht
 
-1. Es wurde eine Anmeldungsentscheidung getroffen.
-2. Die Entscheidung stützte sich ausschließlich auf die vom Marketplace einbehobenen Steuerbeträge.
-3. Die Steuerlogik der Plattform wich von den Regeln der lokalen Anmeldejurisdiktion ab.
-4. Der endgültig angemeldete Betrag wurde ungenau.
+1. Es wurde eine Entscheidung zur Steuererklärung getroffen.
+2. Die Entscheidung stützte sich allein auf die von der Plattform erhobenen Steuerbeträge.
+3. Die Steuerlogik der Plattform unterschied sich von den Regeln der lokalen Meldebehörde.
+4. Der endgültig gemeldete Betrag wurde ungenau.
 
-| Kennzahl | Marketplace-Plattform | Tatsächliche Belastung |
+| Kennzahl | Marktplatz-Plattform | Tatsächliche Schuld |
 | --- | --- | --- |
-| Bruttoumsätze | €50,000 | €50,000 |
+| Bruttoumsatz | €50,000 | €50,000 |
 | Plattformsteuer | €7,600 | — |
-| Berechnete USt | — | €8,042 |
+| Berechnete Umsatzsteuer | — | €8,042 |
 
 **Falsche Schlussfolgerung:**
 
@@ -191,7 +218,7 @@ VAT payable = Platform tax collected
 
 ```
 
-**Richtiger Ansatz:**
+**Richtiges Vorgehen:**
 
 ```text
 VAT payable = Gross Sales - Net Sales - Refund VAT adjustments
@@ -207,19 +234,19 @@ Net VAT Payable = Output VAT-Refund VAT
 
 ---
 
-#### Falle 2 — Erstattungssteuer-Rückforderung ignorieren
+#### Falle 2 – die Steuererstattung bei Rückerstattungen ignorieren
 
-1. Es kam zu Kundenerstattungen.
-2. Die Berechnung der USt-Rückforderung wurde ausgelassen.
-3. Die Gesamtsteuerbelastung blieb überhöht und verzehrte die Nettomarge.
+1. Es kam zu Kundenrückerstattungen.
+2. Berechnungen zur Umsatzsteuer-Erstattung wurden weggelassen.
+3. Die gesamte Steuerschuld blieb zu hoch und ließ Nettomarge abfließen.
 
-| Ledger-Posten | Ohne Steuerückforderung | Mit Steuerückforderung |
+| Position im Journal | Ohne Steuererstattung | Mit Steuererstattung |
 | --- | --- | --- |
-| Verkaufs-USt | €12,300 | €12,300 |
-| Erstattungs-USt | €0 | €1,120 |
-| Endgültige USt | €12,300 | €11,180 |
+| Umsatzsteuer auf Verkäufe | €12,300 | €12,300 |
+| Erstattete Umsatzsteuer | €0 | €1,120 |
+| Endgültige Umsatzsteuer | €12,300 | €11,180 |
 
-Der entscheidende analytische Fehler besteht darin, Erstattungen als Bruttoumsatzkorrekturen statt als spezifische Korrekturen der Steuerbelastung zu behandeln.
+Der entscheidende Analysefehler besteht darin, Rückerstattungen als Korrektur des Bruttoumsatzes zu behandeln statt als Korrektur der konkreten Steuerschuld.
 
 ```excel
 Refund VAT = Refund Amount × VAT Rate ÷ (1+VAT Rate)
@@ -228,11 +255,11 @@ Refund VAT = Refund Amount × VAT Rate ÷ (1+VAT Rate)
 
 ---
 
-#### Falle 3 — Voraussetzen, dass Kundenländercodes immer korrekt sind
+#### Falle 3 – die Annahme, dass Ländercodes von Kunden immer korrekt sind
 
-1. Die Anmeldeberechnungen wurden ausgeführt.
-2. Standard-Länderzuordnungen enthielten leere oder fehlerhafte Daten.
-3. Die Verteilung der USt-Jurisdiktionen wurde grundlegend fehlerhaft.
+1. Die Berechnungen für die Meldung wurden ausgeführt.
+2. Die standardmäßigen Länderzuordnungen enthielten leere oder fehlerhafte Daten.
+3. Die Zuordnung der Umsatzsteuer-Hoheiten wurde grundlegend fehlerhaft.
 
 Beispiel eines stillen Fehlers:
 
@@ -242,9 +269,9 @@ Beispiel eines stillen Fehlers:
 | TX-10026 | BLANK |
 | TX-10027 | XX |
 
-Ohne programmatische Validierung gelangen diese nicht zugeordneten Transaktionen still in Ihre endgültigen Steueranmeldungen.
+Ohne programmatische Validierung gelangen diese nicht zugeordneten Transaktionen stillschweigend in Ihre endgültigen Steuermeldungen.
 
-**Korrigierter Validierungsansatz:**
+**Korrigiertes Validierungsvorgehen:**
 
 ```text
 IF Country is missing
@@ -275,7 +302,7 @@ HSTACK()
 
 ```
 
-*Zweck:* Leere Zeilen entfernen, Plattformschema normalisieren, Ländercodes standardisieren, Transaktionsledger aufbauen.
+*Zweck:* Leere Zeilen entfernen, Plattform-Schema normalisieren, Ländercodes standardisieren, Transaktionsjournal aufbauen.
 
 ```excel
 XLOOKUP()
@@ -284,7 +311,7 @@ MAP()
 
 ```
 
-*Zweck:* Dynamische USt-Suche, steuerliche Jurisdiktionsverteilung, Extraktion der Erstattungsrückforderungen, Berechnung des Nettobetrags.
+*Zweck:* Dynamischer Umsatzsteuer-Abgleich, Zuordnung der Steuer je Steuerhoheit, Extraktion der Erstattungen, Berechnung der Nettoschuld.
 
 ```excel
 FILTER()
@@ -295,7 +322,7 @@ LET()
 
 ```
 
-*Zweck:* Ausnahmeerkennung, Erzeugung von Diagnose-Datenpaketen, Steueranmelde-Kontrollgate.
+*Zweck:* Erkennung von Ausnahmefällen, Erzeugung der Diagnosedaten, Kontrollinstanz vor der Steuermeldung.
 
 </details>
 
@@ -303,37 +330,36 @@ LET()
 
 ## Die Geschäftslogik & Methodik
 
-Dieses Tool ist nicht nur eine Berechnungstabelle; es ist eine operationale Methodik zum Schutz Ihrer Nettomarge und zur Sicherstellung der Prüfungsbereitschaft. Es löst das Kerngeschäftsproblem der **multikanalen Finanzfragmentierung**, indem es Abstimmungsprinzipien auf Enterprise-Niveau auf den grenzüberschreitenden E-Commerce von KMU anwendet.
+Die Umsatzsteuer-Compliance im grenzüberschreitenden E-Commerce ist nicht nur ein Steuerberechnungsproblem. Sie ist ein Problem der Transaktionsabstimmung und der Berichtskontrolle. Werden Verkaufsdaten aus Shopify und Etsy getrennt verarbeitet, können Unterschiede bei Steuererhebung, Behandlung von Rückerstattungen, Länderzuordnung und Meldezeiträumen zu ungenauen Umsatzsteuererklärungen oder unnötiger manueller Prüfung führen.
 
-Hier ist die Methodik, die das System antreibt:
+Dieses Toolkit wendet eine wiederholbare **Methodik zur monatlichen Umsatzsteuer-Abstimmung** an, um rohe Marktplatz-Exporte in eine strukturierte, länderspezifische Sicht auf Umsätze, Steuerschulden, Erstattungskorrekturen und ungelöste Ausnahmefälle zu verwandeln.
 
-### 1. Datennormalisierung (Single Source of Truth)
-*   **Das Geschäftsproblem:** Shopify und Etsy exportieren Transaktionsdaten in völlig unterschiedlichen Berichtsschemata. Manueller Vergleich führt zu Versionschaos und defekten VLOOKUPs.
-*   **Die Methodik:** Das Tool fungiert als schlanke ETL-Pipeline (Extract, Transform, Load). Es liest automatisch unterschiedliche Roh-CSV-Exporte ein und normalisiert sie zu einem standardisierten, einheitlichen Transaktionsledger – eine Single Source of Truth für Ihre Compliance-Daten.
+Die Methodik verbindet vier Geschäftsprozesse:
 
-### 2. Zero-Trust-Steuerneuberechnung
-*   **Das Geschäftsproblem:** Blindes Vertrauen auf „Tax Collected“-Werte des Marketplace führt oft zu Fehlmeldungen nach Jurisdiktion, da Plattformalgorithmen nicht mit Ihren konkreten Nexus-Verpflichtungen oder Produktsteuerklassen übereinstimmen.
-*   **Die Methodik:** Die Engine nutzt ein „Zero-Trust“-Berechnungsmodell. Sie berechnet Ihre tatsächliche Steuerbelastung *Bottom-up* aus Bruttoumsätzen und Ihren konfigurierten Jurisdiktionsraten neu und prüft diese Basislinie gegen die von der Plattform einbehobene Steuer, um versteckte Rechenabweichungen aufzudecken.
+- **Normalisierung der Daten über mehrere Plattformen:** Shopify- und Etsy-Exporte verwenden unterschiedliche Transaktionskennungen und steuerrelevante Felder. Ein einheitliches Transaktionsjournal standardisiert die relevanten Daten, sodass Verkäufe aus mehreren E-Commerce-Kanälen konsistent analysiert werden können. Das reduziert die manuelle Tabellenvorbereitung und macht die plattformübergreifende Umsatzsteuerberichterstattung leichter wartbar.
 
-### 3. Management by Exception
-*   **Das Geschäftsproblem:** Tausende Mikrotransaktionen monatlich manuell für eine OSS-Erklärung zu prüfen, ist eine nicht tragfähige Belastung der Finanzressourcen.
-*   **Die Methodik:** Die Architektur verlagert Ihren Buchhaltungs-Workflow auf „ausnahmebasiertes Management“. Statt jede Zeile zu prüfen, isoliert das Validierungszentrum nur die Anomalien – fehlende Ländercodes, leere Steuersätze oder Erhebungsabweichungen über €1.00 –, sodass Sie sich voll auf die Lösung wirkungsvoller Probleme konzentrieren können.
+- **Länderbasierte Zuordnung der Umsatzsteuersätze:** Jede Transaktion wird einem Zielland und dem dort konfigurierten Umsatzsteuersatz zugeordnet. Das unterstützt Umsatzsteuerberechnungen auf Länderebene und hilft, Transaktionen zu erkennen, denen kein gültiger Steuersatz zugewiesen werden kann. Lücken in der Berichterstattung je Steuerhoheit werden so schon vor der Meldungsvorbereitung sichtbar.
 
-### 4. Nettomargenrückgewinnung durch Erstattungsverrechnung
-*   **Das Geschäftsproblem:** Viele grenzüberschreitende Händler behandeln Kundenretouren nur als Umsatzkorrekturen und holen die zugehörige geschuldete USt nicht systematisch zurück – der Nettogewinn geht so an die Steuerbehörden verloren.
-*   **Die Methodik:** Die Berechnungs-Engine isoliert programmatisch Erstattungstransaktionen und ordnet sie ihren Ursprungsjurisdiktionen zu. Sie wendet automatisch Steuerguthaben-Verrechnungen gegen Ihre Brutto-USt-Zahlung an, damit Sie die Steuerlast erstatteter Verkäufe nie selbst tragen.
+- **Brutto-zu-Netto-Steuerberechnung und Erstattungskorrektur:** Umsätze inkl. USt werden in Nettoumsatz und geschuldete Umsatzsteuer getrennt, während anspruchsberechtigte Umsatzsteuerkorrekturen aus Rückerstattungen separat berechnet werden. Das hilft Finanzteams, kommerziellen Umsatz von Steuerbeträgen zu unterscheiden und zu verstehen, wie Rückerstattungen den berechneten Umsatzsteuersaldo beeinflussen.
+
+- **Steuerabgleich und Prüfung nach Ausnahmefällen:** Von der Plattform gemeldete Steuerbeträge werden mit der intern berechneten geschuldeten Umsatzsteuer verglichen. Fehlende Ländercodes, nicht zugeordnete Steuersätze, negative Umsatzwerte und wesentliche Steuerabweichungen werden zur Untersuchung markiert. Statt jede Transaktion manuell zu prüfen, können Finanzteams die Datensätze priorisieren, die Aufmerksamkeit erfordern.
+
+- **Monatliche Umsatzsteuerberichterstattung auf Länderebene:** Validierte Transaktionsdaten werden nach Meldezeitraum und Land aggregiert, um ein strukturiertes Arbeitsblatt für die Umsatzsteuerberichterstattung zu erzeugen. Damit erhalten E-Commerce-Betreiber, Buchhalter und Steuerberater einen konsistenten Ausgangspunkt für die Prüfung monatlicher Umsatzsteuerzahlen und die Vorbereitung länderspezifischer Erklärungen.
+
+Das kommerzielle Ziel ist, repetitives Hantieren in Tabellen durch einen **kontrollierten, wiederholbaren Arbeitsablauf für die Umsatzsteuerberichterstattung** zu ersetzen. Das Ergebnis ist eine bessere Sichtbarkeit der berechneten Steuerschulden, klarere Abgleichsnachweise und ein disziplinierterer Prozess, um Probleme vor der Meldung zu erkennen.
+
+**Wichtig:** Diese Arbeitsmappe ist eine Rechen- und Abgleichshilfe, kein Ersatz für länderspezifische Steuerberatung. Die tatsächlichen Umsatzsteuerpflichten hängen von Faktoren wie der Registrierung des Verkäufers, der Einordnung der Transaktion, den Deemed-Supplier-Regeln der Marktplätze, den anwendbaren Steuersätzen und der Behandlung von Rückerstattungen ab. Berechnete Beträge und Ergebnisse der Ausnahmeprüfung sollten vor der Einreichung mit den einschlägigen Meldeanforderungen abgeglichen werden.
 
 ---
 
 
-## Weitere operative Tools dieser Serie
+## Weitere operative Werkzeuge in dieser Reihe
 
-* **Inventory Planning & Replenishment Console** — Vorlage zur Bestelloptimierung und Bestandsrisikosteuerung.
-* **Marketing Attribution Audit System** — Kanalattributionsvalidierung und ROAS-Effizienzanalyse.
-* **Project Cost Allocation Workbench** — Tabelle für Personalkostenverteilung und Projektrentabilität.
-* **Multi-Entity Logistics Control Tower** — Dashboard zur Überwachung grenzüberschreitender Sendungen und Zollabwicklung.
+* **[cars-702-705-flight-duty-time-tracker-excel](https://github.com/HyVoid/cars-702-705-flight-duty-time-tracker-excel)** — Welche luftfahrtrechtliche Vorgabe oder betriebliche Einschränkung gilt? — Luftfahrtrechtliche Anforderungen in operative Einschränkungen für Flugdienstzeiten übersetzen.
+* **[Reckon-IIF-Converter](https://github.com/HyVoid/Reckon-IIF-Converter)** — Wie senken wir das Risiko bei Buchhaltungsimporten und Migrationen? — CRM-Rechnungsexporte in validierte, importfertige Buchhaltungsdateiformate umwandeln.
+* **[eu-ppwr-compliance-tracker](https://github.com/HyVoid/eu-ppwr-compliance-tracker)** — Können wir belegen, dass unsere Verpackungen tatsächlich PPWR-konform und bereit für die EU-DoC-Unterzeichnung sind, oder halten wir nur unvollständige Lieferantenunterlagen in der Hand? — Verpackungserklärungen von Lieferanten gegen regulatorische Schwellenwerte und Massenbilanz-Toleranzen prüfen, automatisiertes Screening von der Expertenprüfung der Nachweise trennen und die abschließende Freigabe der technischen Dokumentation absichern.
 
-Entdecken Sie weitere Entscheidungsunterstützungs-Frameworks und Vorlagen über das GitHub-Profil und unsere [Website](https://www.theseusworkshop.com/).
+Entdecken Sie weitere Entscheidungshilfen und Vorlagen im GitHub-Profil und auf unserer [Website](https://www.theseusworkshop.com/).
 
 ---
 
@@ -341,4 +367,4 @@ Entdecken Sie weitere Entscheidungsunterstützungs-Frameworks und Vorlagen über
 
 Dieses Projekt ist unter der **Apache License 2.0** lizenziert.
 
-Details finden Sie in der LICENSE-Datei.
+Einzelheiten finden Sie in der Datei LICENSE.
