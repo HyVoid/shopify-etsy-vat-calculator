@@ -105,7 +105,7 @@ Sie sind ein **100%iger Fit** für diese Arbeitsmappe, wenn Sie alle sechs Aussa
 2. **Irische oder EU-Umsatzsteuerregistrierung:** Sie sind in **Irland oder einem anderen EU-Mitgliedstaat** umsatzsteuerlich registriert.
 3. **Produkte zum Standard-Umsatzsteuersatz:** Ihr Sortiment wird überwiegend mit dem **nationalen Standard-Umsatzsteuersatz** besteuert (z. B. Erwachsenenbekleidung, Beauty/Hautpflege, Modeaccessoires, Wohnaccessoires, Geschenkartikel).
 4. **Kundenpreise inkl. USt:** Die Ihren Kunden angezeigten Preise enthalten bereits die Umsatzsteuer.
-5. **Selbstmelder oder Übergabe an den Steuerberater:** Sie reichen Ihre monatlichen/zweimonatlichen/vierteljährlichen Umsatzsteuererklärungen selbst ein oder bereiten die Summen für Ihren Steuerberater vor.
+5. **Selbstmelder oder Übergabe an den Steuerberater:** Sie reichen Ihre monatlichen/zweimonatlichen/vierteljährigen Umsatzsteuererklärungen selbst ein oder bereiten die Summen für Ihren Steuerberater vor.
 6. **Excel-365-Desktop-Nutzer:** Sie verwenden **Microsoft Excel 365 auf dem Desktop (Windows oder Mac)**, das die automatischen dynamischen Array-Formeln ermöglicht.
 
 ### Wer diese Version nicht kaufen sollte (strikte Grenzen)

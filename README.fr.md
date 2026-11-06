@@ -1,6 +1,6 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Calculateur de TVA Shopify & Etsy (modèle Excel) : déclaration EU OSS instantanée et tableur de déclaration fiscale multi-pays pour débutants
+# Calculateur de TVA Shopify & Etsy (modèle Excel) : tableur instantané pour la déclaration TVA UE OSS et multi-pays pour débutants
 <img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/d6ee6f09-1f74-4805-87d6-cd1b78da29e4" />
 
 
@@ -84,7 +84,7 @@ Ce classeur transforme en produit une méthodologie comptable infaillible pour l
 
 Ce **classeur de conformité TVA e-commerce** est conçu spécifiquement pour les moments opérationnels sous tension où les débutants et les petites équipes n'ont pas les moyens de dépanner un tableur :
 
-- **Déclaration fiscale en haute saison (Black Friday/Cyber Monday et fêtes du T4) :** quand le volume de commandes est multiplié par 5 en novembre et décembre et que vous n'avez aucun temps pour chercher des taux étrangers ou réparer des lignes de tableur cassées.
+- **Déclaration fiscale en haute saison (BFCM et fêtes du T4) :** quand le volume de commandes est multiplié par 5 en novembre et décembre et que vous n'avez aucun temps pour chercher des taux étrangers ou réparer des lignes de tableur cassées.
 - **Préparation des déclarations irlandaises et européennes + OSS :** séparer les déclarations de TVA nationales (par ex. les dépôts ROS auprès de l'Irish Revenue) des **ventilations pays par pays du guichet unique (OSS)** paneuropéen.
 - **Transmettre des documents de travail propres à votre comptable :** générer un récapitulatif mensuel standardisé avec une **attestation de revue comptable** intégrée pour réduire le temps de revue de votre comptable et ses honoraires.
 - **Rapprocher la taxe collectée par Etsy en tant qu'opérateur de place de marché et les ventes directes Shopify :** identifier précisément où la taxe calculée par la plateforme diffère de votre obligation légale de TVA au taux standard avant la déclaration.
