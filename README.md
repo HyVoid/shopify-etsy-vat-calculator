@@ -37,6 +37,14 @@ Instead of forcing you to build complex accounting formulas from scratch, this *
 | **Hidden Platform Tax Discrepancies** | *"Etsy and Shopify tax collected doesn't match VAT return"* | Runs a **5-point pre-filing diagnostic check** for duplicate orders, missing VAT, unbalanced rows, unrecognised countries, and platform tax variances. | Actionable exception checklist flagging exact rows to fix before filing. |
 | **Accountant Hand-Off & Audit Anxiety** | *"Monthly VAT summary template for ecommerce accountant"* | Aggregates clean monthly figures with a generated plain-English **Accountant Review Statement** ready for local returns or quarterly OSS filing. | Audit-ready **Country-by-Country VAT Payable Summary** with zero external plugins. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1OxpKqVmu-yXN7zc7j2Yc_8c1wbEC4cW5/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## The Business Logic & Methodology: Fixing Hidden Profit Leaks for Beginners
